@@ -1,0 +1,46 @@
+AOF|Avatar of Fire (Converts 50% of physical, lightning, and cold damage to fire; Can't deal non-fire damage)
+AA|Arctic Armour
+EA|Explosive Arrow, Elemental Adaptation (+2% all max elemental resistances)
+LA|Lightning Arrow
+PoE|Path of Exile
+EB|Eldritch Battery (Converts all energy shield to mana)
+CI|Chaos Inoculation (Immune to chaos damage, sets life to 1)
+GCP|Gemcutter's Prism
+BM|Blood Magic (Removes mana, use life instead of mana)
+EK|Ethereal Knives
+EH|Elemental Hit
+FS|Flicker Strike
+PA|Poison Arrow, Phase Acrobatics (30% chance to dodge spell damage), Pain Attunement (30% More spell damage when on low life), Permanent Allocation (Party loot mode)
+WB|Whirling Blades
+FP|Freezing Pulse
+FB|Fireball, Flame Blast
+FW|Frost Wall
+CS|Cold Snap
+RF|Righteous Fire
+IIR|Increased Item Rarity
+IIQ|Increased Item Quantity
+WED|Weapon Elemental Damage
+IAS|Increased Attack Speed
+LMP|Lesser Multiple Projectiles
+GMP|Greater Multiple Projectiles
+EE|Elemental Equilibrium (Elemental damage gives target +25% resistance to that element and -50% resistance to other elements)
+RT|Resolute Technique (Your hits can't be Evaded, Never deal Critical Strikes)
+IR|Iron Reflexes (Converts evasion to armor, dexterity no longer provides evasion)
+FB|Facebreaker
+ROA|Rain of Arrows
+IG|Iron Grip (Strength damage bonus applies to projectile attacks as well as melee attacks)
+CE|Concentrated Effect
+BLAMT|Blood Magic, Lethal, Ancestral, Multiprojectile, Turbo
+HM|Hex Master (Curses never expire)
+MI|Minion Instability (Minions explode upon death)
+MS|Multistrike, Movement Speed, Molten Strike, Molten Shell
+US|Unwavering Stance (Cannot be stunned, cannot evade)
+PB|Point Blank (Up to 50% More damage to close targets)
+GR|Ghost Reaver (Life leech is applied to energy shield)
+MOM|Mind Over Matter (30% of damage is taken from mana)
+CWDT|Cast When Damage Taken
+CB|Corrupted blood
+IB|Infernal Blow
+ZO|Zealot's Oath (Life Regeneration applies to Energy Shield instead of Life) (1% Life Regeneration becomes 1% Energy Shield Renegeration. You do not regenerate ES based on your max life.)
+c/o|Current Offer
+b/o|Buyout

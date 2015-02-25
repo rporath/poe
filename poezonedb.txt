@@ -1,0 +1,52 @@
+Twilight Strand|1;35;52
+The Coast|2;35;52
+The Tidal Island|3;38;58
+The Mud Flats|4;36;52
+The Fetid Pool|5;40;58
+The Submerged Passage|5;36;53
+The Flooded Depths|6;38;58
+The Ledge|7;37;53
+The Climb|8;37;54
+The Prison|9;37;54
+Prisoner's Gate|11;38;55
+The Ship Graveyard|12;38;55
+The Ship Graveyard Cave|13;40;59
+The Coves|13;39;55
+The Cavern of Wrath|14;39;55
+The Cavern of Anger|15;40;56
+
+The Southern Forest|15;40;57
+The Old Fields|16;41;57
+The Den|17;43;61
+The Crossroads|17;41;57
+The Chamber of Sins|20;42;58
+The Broken Bridge|21;43;58
+The Fellshrine Ruins|18;42;59
+The Crypt|21;43;60
+The Riverways|16;41;57
+The Blackwood|18;42;57
+The Weaver's Chambers|20;42;58
+The Western Forest|21;43;58
+The Vaal Ruins|21;44;58
+The Wetlands|23;45;59
+The Dread Thicket|24;47;62
+The Caverns|25;45;60
+The Ancient Pyramid|26;46;60
+
+The City of Sarn|26;46;61
+The Slums|27;46;61
+The Crematorium|28;47;61
+The Warehouse District|29;48;61
+The Marketplace|29;48;61
+The Catacombs|30;53;67
+The Battlefront|30;49;62
+The Solaris Temple|31;50;62
+The Docks|32;50;62
+The Sewer Waterway|32;50;63
+The Barracks|32;51;64
+The Lunaris Temple|33;51;65
+The Imperial Gardens|33;51;66
+The Library|33;51;67
+The Archives|34;52;67
+The Sceptre of God|35;53;67
+The Upper Sceptre of God|36;54;68
