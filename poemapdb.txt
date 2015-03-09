@@ -1,5 +1,5 @@
 66|Crypt, Dried Lake, Dunes, Dungeon, Grotto, Overgrown Ruin, Tropical Island, The Coward's Trial
-67|Arcade, Arsenal, Cemetery, Mountain Ledge, Sewer, Thicket, Wharf, Maelström of Chaos
+67|Arcade, Arsenal, Cemetery, Mountain Ledge, Sewer, Thicket, Wharf, MaelstrÃ¶m of Chaos
 68|Ghetto, Mud Geyser, Reef, Spider Lair, Springs, Vaal Pyramid, Vaults of Atziri
 69|Catacombs, Overgrown Shrine, Promenade, Shore, Spider Forest, Tunnel, Acton's Nightmare
 70|Bog, Coves, Graveyard, Pier, Underground Sea
@@ -8,5 +8,5 @@
 73|Dry Peninsula, Canyon, Cells, Dark Forest
 74|Gorge, Maze, Underground River
 75|Bazaar, Necropolis, Plateau
-76|Crematorium, Precinct
+76|Crematorium, Precinct, Academy
 77|Shipyard, Shrine
