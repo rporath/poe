@@ -12,6 +12,7 @@ Flame Totem|+1.5% increased Totem life
 Glacial Hammer|+1% increased Freeze Duration, +2% increased Chill Duration
 Ground Slam|+1.5% increased Stun Duration on enemies
 Heavy Strike|+0.75% increased Attack Speed (20%q = 15% attack speed)
+Herald of Ash|0.75% increased fire damage(20q = 15% increased fire damage)
 Immortal Call|Additional +0.01 seconds Base Duration per Endurance Charge
 Infernal Blow|+1% increased Area of Effect Radius
 Leap Slam|+1.5% increased Stun Duration
@@ -48,6 +49,7 @@ Frenzy|+0.2% increased Attack Speed per Frenzy Charge (20%q = 4% increased attac
 Grace|+1% increased Area of Effect Radius
 Haste|+1% increased Area of Effect Radius
 Hatred|+1% increased Area of Effect Radius
+Herald of Ice|0.75% increased cold damage(20q = 15% increased cold damage)
 Ice Shot|0.75% increased Skill Effect Duration (20%q = 15% increased duration)
 Lightning Arrow|+1.5% Shock duration
 Phase Run|+1% increased Melee Physical Damage
@@ -81,6 +83,7 @@ Flammability|Burns on Cursed Enemies have +1% increased Duration
 Freezing Pulse|+3% increased Projectile Speed
 Frostbite|Freezes on Cursed Enemies have +1% increased Duration
 Frost Wall|+0.75 units Wall length (20%q = 15 "units")
+Herald of Thunder|0.75% increased lightning damage(20q = 15% increased lightning damage)
 Ice Nova|+1% increased Area of Effect Radius
 Ice Spear|+3% increased Projectile Speed
 Incinerate|+2% increased Projectile Speed
