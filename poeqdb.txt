@@ -44,7 +44,7 @@ Explosive Arrow|+1% Chance to Ignite enemies on hit with Fire Damage
 Fire Trap|1.5% increased Burning Damage
 Flicker Strike|+4% increased Critical Strike Chance
 Freeze Mine|+0.5% increased Area of Effect Radius
-Frenzy|+0.35% increased Attack Speed per Frenzy Charge (20%q = 7% increased attack speed per frenzy charge)
+Frenzy|+0.2% increased Attack Speed per Frenzy Charge (20%q = 4% increased attack speed per frenzy charge)
 Grace|+1% increased Area of Effect Radius
 Haste|+1% increased Area of Effect Radius
 Hatred|+1% increased Area of Effect Radius
