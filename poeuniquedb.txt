@@ -1,7 +1,7 @@
 ﻿;w4nds
 
 Lifesprig Driftwood Wand|+1 to Level of Spell Gems in this item; [20-28]% increased Spell Damage; [5-8]% increased Cast Speed; +[15-20] to maximum Life; +[15-20] to maximum Mana; Regenerate [6-8] Life over 1 second for each Spell you Cast
-Midnight Bargain Engraved Wand|+[10-20] to Intelligence; Minions Have [10-20]% Increased Movement Speed; Minions Deal [15-30]% Increased Damage; +1 to Maximum Number of Zombies; +1 to Maximum Number of Spectres; +2 to Maximum Number of Skeletons; Reserves 30% of Life; Cannot be used with Chaos Innoculation
+Midnight Bargain Engraved Wand|+[10-20] to Intelligence; Minions Have [10-20]% Increased Movement Speed; Minions Deal [15-30]% Increased Damage; +1 to Maximum Number of Zombies; +1 to Maximum Number of Spectres; +2 to Maximum Number of Skeletons; Reserves 30% of Life; Cannot be used with Chaos Inoculation
 Moonsorrow Imbued Wand|[30-40]% Increased Spell Damage; 125% Increased Physical Damage; +10 to Intelligence; [20-30]% Increased Lightning Damage; 10% Increased Cast Speed; 10% Chance to Blind Enemies on Hit; Skill Gems in this Item are Supported by Level 5 Blind
 Void Battery Prophecy Wand|80% reduced Spell Damage; [50-65]% increased Global Critical Strike Chance; +[40-50] to maximum Mana; +1 maximum Power Charge; [10-20]% increased Cast Speed; 25% increased Spell Damage per Power Charge
 Piscator's Vigil Tornado Wand|No Physical Damage; [10-18]% increased Attack Speed; +[340-400] to Accuracy Rating; [20-30]% increased Critical Strike Chance; Attacks with this Weapon have [100-115]% increased Elemental Damage
