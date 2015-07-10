@@ -56,7 +56,7 @@ Death Rush Amethyst Ring|+[300-350] to Accuracy Rating; +[60-80] to Armour; +[15
 Doedre's Damning Paua Ring|+[5-10] to Intelligence; +5 Mana Gained when you kill an Enemy; +5% to all Elemental Resistances; Enemies can have 1 Additional Curse
 Dream Fragments Sapphire Ring|20% Increased Maximum Mana; 50% Increased Mana Regeneration Rate; Cannot be Frozen
 Gifts from Above Diamond Ring|[30-35]% increased Global Critical Strike Chance; [10-15]% increased Light Radius; Creates Consecrated Ground on Critical Strike; [40-50]% increased Rarity of Items Dropped by enemies killed with a Critical Strike
-Kaom's Sign Coral Ring|+[10-20] to Strength; 2% of Physical Attack Damage Leeched back as Life; +1 Maximum Endurance Charge
+Kaom's Sign Coral Ring|+[10-20] to Strength; +[2-4] Life gained for each Enemy hit by your Attacks; +1 Maximum Endurance Charge
 Le Heup of All Iron Ring|[10-20%] increased Damage; +[10-20] to All Attributes; +[10-20%] to All Elemental Resistances; +[10-20%] increased Rarity of Items Found
 Lori's Lantern Prismatic Ring|+[8-12%] to all Elemental Resistances; +10% to all Elemental Resistances; [6-8%] increased Movement Speed when on Low Life; 31% increased Light Radius; +[20-25%] Chaos Resistance when on Low Life; While on Low Life, Enemies are Unlucky when Damaging you
 Ming's Heart Amethyst Ring|15% reduced maximum Life; 15% reduced maximum Energy Shield; +[40-50]% to Chaos Resistance; Gain 20% of Physical Damage as Extra Chaos Damage
@@ -94,7 +94,7 @@ Daresso's Defiance Full Dragonscale|[160-200]% increased Armour and Evasion; +[4
 Death's Oath Astral Plate|+[40-50] to all Attributes; +[10-15]% to Attack Speed; +[180-220]% increased Armour; 5% of Physical Attack Damage Leeched back as Life; Deals 450.0 Chaos Damage per second to nearby enemies; You take 450 Chaos Damage per second for 3 seconds on Kill; Gore Footprints
 Foxshade Wild Leather|Adds 5-12 Physical Damage; +[20-30] to Dexterity; You Gain 150 Evasion Rating when on Full Life; [50-70]% Increased Evasion Rating; 10% Increased Movement Speed
 Greed's Embrace Golden Plate|[10-15]% increased Quantity of Items found; [30-50]% increased Rarity of Items found; −10% to Fire Resistance; +[20-30]% to Cold Resistance; −20% to Lightning Resistance; 20% reduced Movement Speed; 30% reduced Strength Requirement
-Hyrri's Ire Zodiac Leather|+[20-30] to Dexterity; Adds 13-24 Cold Damage; [140-220]% Increased Evasion Rating; 10% chance to Dodge Attacks; 10% chance to Dodge Spell Damage;  25% Increased Chill Duration on Enemies
+Hyrri's Ire Zodiac Leather|+[20-30] to Dexterity; Adds 13-24 Cold Damage; [140-220]% Increased Evasion Rating; 25% Increased Chill Duration on Enemies; 10% chance to Dodge Attacks; 10% chance to Dodge Spell Damage
 Icetomb Latticed Ringmail|+[30-40] to Strength; +[30-40] to Intelligence; [140-160]% increased Armour and Energy Shield; +[50-75]% to Cold Resistance; Cannot be Chilled; 150% increased Chill Duration on enemies
 Incandescent Heart Saintly Chainmail|+[60-80] to Armour; [120-140]% increased Armour and Energy Shield; +[80-90] to maximum Life; [4-5]% of Physical Attack Damage Leeched as Life; 25% of Elemental Damage taken as Chaos Damage; [20-30]% increased Light Radius; Light Radius is based on Energy Shield instead of Life
 Infernal Mantle Widowsilk Robe|+1 to Level of Fire Gems in this item; [25-35]% increased Fire Damage; 100% increased Global Critical Strike Chance; [190-230]% increased Energy Shield; 25% of Fire Damage Converted to Chaos Damage; 100% increased Spell Damage taken when on Low Mana
