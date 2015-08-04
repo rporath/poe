@@ -44,3 +44,4 @@ IB|Infernal Blow
 ZO|Zealot's Oath (Life Regeneration applies to Energy Shield instead of Life) (1% Life Regeneration becomes 1% Energy Shield Renegeration. You do not regenerate ES based on your max life.)
 c/o|Current Offer
 b/o|Buyout
+CWS|Cast when Stunned
