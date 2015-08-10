@@ -1,4 +1,4 @@
-﻿;w4nds
+;w4nds
 
 Abberath's Horn Goat's Horn|[40-60]% increased Global Critical Strike Chance; [20-30]% increased Fire Damage; 25% reduced Ignite Duration on Enemies; Adds [4–6 - 8–12] Fire Damage to Spells; +10 Life gained on Killing Ignited Enemies
 Apep's Rage Opal Wand|Adds [50 – 90 - 65–105] Chaos Damage to Spells; [25-30]% increased Cast Speed; +[5-10]% to Chaos Resistance; 40% increased Mana Cost of Skills
@@ -158,7 +158,7 @@ Maligaro's Virtuosity Deerskin Gloves|+[20-30] to Dexterity; 5% Increased Attack
 Null and Void Legion Gloves|+[20-30] to Strength; [150-170]% increased Armour and Energy Shield; +[50-70] to maximum Life; [20-40]% increased mana Regeneration Rate; Dispels elemental Status Ailments on Rampage; Gain Immunity to Physical Damage for 1.5 seconds on Rampage
 Ondar's Clasp Wrapped Mitts|30% Increased Attack Speed when on Full Life; Adds 1-13 Lightning Damage; +[50-80] to Accuracy; 20% Increased Movement Speed when on Low Life
 Sadima's Touch Wool Gloves|Adds 4-8 Fire Damage; Adds 1-13 Lightning Damage; +18 to Maximum Energy Shield; [12-16]% Increased Quantity of Items Found
-Shackles of the Wretched Chain Gloves|+[40-60]+% increased Block and Stun Recovery; Curses in this item are reflected back to you; You cannot be Chilled for 3 seconds after being Chilled; You cannot be Frozen for 3 seconds after being Frozen; You cannot be Ignited for 3 seconds after being Ignited; You cannot be Shocked for 3 seconds after being Shocked; You grant [4 to 6] Frenzy Charges to allies on Death
+Shackles of The Wretched Chain Gloves|+[40-60]+% increased Block and Stun Recovery; Curses in this item are reflected back to you; You cannot be Chilled for 3 seconds after being Chilled; You cannot be Frozen for 3 seconds after being Frozen; You cannot be Ignited for 3 seconds after being Ignited; You cannot be Shocked for 3 seconds after being Shocked; You grant [4 to 6] Frenzy Charges to allies on Death
 Shadows and Dust Clasped Mitts|[20-30]% increased Global Critical Strike Chance; [15-30]% increased Global Critical Strike Multiplier; [100-130]% increased Evasion and Energy Shield; 1% of Physical Attack Damage Leeched as Mana; Creates a Smoke Cloud on Rampage; Gain Unholy Might for 3 seconds on Rampage
 Slitherpinch Bronzescale Gauntlets|+[40-50] to Dexterity; 5% Increased Attack Speed; 3% of Physical Attack Damage Leeched back as Life; 2% of Physical Attack Damage Leeched back as Mana; [60-100]% Increased Evasion Rating
 Snakebite Assassin's Mitts|[150-180]% increased Evasion Rating; +[60-70] to maximum Life; 2% increased Attack Speed per Frenzy Charge; 6% increased Accuracy Rating per Frenzy Charge; 10% reduced Frenzy Charge Duration per Frenzy Charge; When at Maximum Frenzy Charges, Attacks Poison enemies
@@ -369,3 +369,64 @@ Lavianga's Spirit Sanctified Mana Flask|[30-50]% increased Amount Recovered; 100
 Forbidden Taste Quartz Flask|50% increased Charges used; Recover 75% of your maximum life on use; 8% of maximum Life taken as Chaos Damage per Second
 Rumi's Concoction Granite Flask|[20-30]% Chance to Block during flask effect; [10-15]% Chance to Block Spells during flask effect
 Taste of Hate Sapphire Flask|30% of Physical Damage taken as Cold Damage during flask effect; Gain 30% of Physical Damage as Extra Cold Damage during effect; 30% chance to Avoid being Chilled during flask effect; 30% chance to Avoid being Frozen during flask effect
+
+;j3w3ls
+
+Anatomical Knowledge Cobalt Jewel|[6-10]% increased maximum Life Adds 1 to maximum Life per 3 Intelligence in Radius
+Apparitions Viridian Jewel|Minions have [5-10]% increased movement speed; Minions have [2-5]% additional chance to Dodge Attacks
+Army of Bones Cobalt Jewel|Minions Deal [8-12]% Increased Damage; +2 to maximum number of Skeletons; [10-20]% reduced skeleton Duration
+Brawn Crimson Jewel|[4-6]% increased Dexterity; [4-6]% increased Strength; [10-15]% reduced Intelligence
+Brute Force Solution Crimson Jewel|+[16-24] to Intelligence; Strength from Passives in Radius is Transformed to Intelligence
+Careful Planning Viridian Jewel|+[16-24] to Dexterity; Intelligence from Passives in Radius is Transformed to Dexterity
+Clear Mind Cobalt Jewel|[20-30]% increased Mana Regeneration Rate; [40-60]% increased Spell Damage while no Mana is Reserved
+Cold Steel Viridian Jewel|Increases and Reductions to Physical Damage in Radius are transformed to apply to Cold Damage;Increases and Reductions to Cold Damage in Radius are transformed to apply to Physical Damage
+Efficient Training Crimson Jewel|+[16-24] to Strength; Intelligence from Passives in Radius is Transformed to Strength
+Eldritch Knowledge Cobalt Jewel|5% increased Chaos damage per 10 Intelligence from Allocated Passives in Radius
+Energised Armour Crimson Jewel|[15-20]% increased Armour Increases and Reductions to Energy Shield in Radius are transformed to apply to Armour
+Energy From Within Cobalt Jewel|[8-12]% increased maximum Energy Shield Increases and Reductions to Life in Radius are transformed to;apply to Energy Shield at 50% of their value
+Fertile Mind Crimson Jewel|+[16-24] to Intelligence; Dexterity from Passives in Radius is Transformed to Intelligence
+Fireborn Crimson Jewel|Increases and Reductions to other Damage Types in Radius are transformed to  apply to Fire Damage
+Fluid Motion Viridian Jewel|+[16-24] to Dexterity; Strength from Passives in Radius is transformed to Dexterity.
+Fortified Legion Cobalt Jewel|Minions have [5-15]% increased maximum Life; Minions Recover 2% of their Maximum Life when they Block
+Fragile Bloom Crimson Jewel|2% of Life Regenerated per Second; 10% increased Damage taken
+Healthy Mind Cobalt Jewel|[15-20]% increased maximum Mana Increases and Reductions to Life in Radius are transformed to apply to Mana
+Hidden Potential Viridian Jewel|[20-25]% increased Damage for each Magic Item you have equipped
+Hotfooted Viridian Jewel|[10-15]% increased Movement Speed while Ignited
+Inertia Crimson Jewel|+[16-24] to Strength Dexterity from Passives in Radius is Transformed to Strength
+Inspired Learning Crimson Jewel|If 4 Notables are Allocated in Radius, When you Kill a Rare monster,you gain 1 of its mods for 20 seconds
+Intuitive Leap Viridian Jewel|Passives in Radius can be allocated without being connected to your tree
+Lioneye's Fall Viridian Jewel|Melee and Melee Weapon Type Modifiers in Radius are Transformed to Bow Modifiers
+Malicious Intent Cobalt Jewel|5% chance to Gain Unholy Might for 4 seconds on Melee Kill
+Mantra of Flames Crimson Jewel|Adds [3–8 - 5–12] Fire Attack Damage per Buff on You;Adds [3–8 - 5–12] Fire Spell Damage per Buff on You
+Martial Artistry Crimson Jewel|[10-15]% Increased Area of Effect while Unarmed
+Might in All Forms Crimson Jewel|Dexterity and Intelligence from passives in Radius; count towards Strength Melee Damage bonus
+Pugilist Viridian Jewel|1% increased Evasion Rating per 3 Dexterity Allocated in Radius 1% increased Claw Physical Damage per 3 Dexterity Allocated in Radius;1% increased Melee Physical Damage while Unarmed per 3 Dexterity Allocated in Radius
+Rain of Splinters Crimson Jewel|[30-50]% Reduced Totem Damage; Totems Fire 2 additional Projectiles
+Spire of Stone Crimson Jewel|3% increased Totem Life per 10 Strength in Radius; Totems cannot be Stunned
+Static Electricity Viridian Jewel|Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius Adds 1-2 Lightning Damage to Attacks
+Atziri's Reign Crimson Jewel|[15-20]% increased Vaal Skill Effect Duration  [Corrupted]
+Ancient Waystones Crimson Jewel|60% reduced Mana Cost of Totem Skills that cast an Aura; [Corrupted]
+Blood Sacrifice Crimson Jewel|1% of maximum Mana gained on Kill; Removes 1% of maximum Life on Kill; Removes 1% of maximum Energy Shield on Kill; [Corrupted]
+Brittle Barrier Cobalt Jewel|20% faster start of Energy Shield Recharge; 10% increased Damage Taken while Energy Shield is Full; [Corrupted]
+Chill of Corruption Viridian Jewel|80% chance to gain an additional Vaal Soul per Enemy Shattered; [Corrupted]
+Combustibles Crimson Jewel|10% reduced Quantity of Items found; [20-30]% increased Burning Damage; [Corrupted]
+Corrupted Energy Cobalt Jewel|With 5 Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield; and 50% of Physical Damage bypasses Energy Shield; [Corrupted]
+Fevered Mind Cobalt Jewel|[20-30]% increased Spell Damage; 100% increased Mana Cost of Skills; [Corrupted]
+Fragility Crimson Jewel|-1 to maximum Endurance Charge; [Corrupted]
+Hungry Abyss Viridian Jewel|With 5 Corrupted Items Equipped: Life Leech recovers based on your Chaos; Damage instead; [Corrupted]
+Mutated Growth Crimson Jewel|10% increased Experience Gain of Corrupted Gems; [Corrupted]
+Pacifism Viridian Jewel|-1 maximum Frenzy Charge; [Corrupted]
+Powerlessness Cobalt Jewel|-1 maximum Power Charge; [Corrupted]
+Sacrificial Harvest Viridian Jewel|[20-30]% chance to gain an additional Vaal Soul on Kill; [Corrupted]
+Self-Flagellation Viridian Jewel|You can have one additional Curse.; [10-20]% increased Damage per Curse on you.; [Corrupted]
+Vaal Sentencing Cobalt Jewel|[80-120]% increased Vaal Skill Critical Strike Chance; [Corrupted]
+Weight of Sin Viridian Jewel|[15-20]% increased Chaos Damage; 15% reduced Movement Speed; [Corrupted]
+Assassin's Haste Cobalt Jewel|10% increased Mana Regeneration Rate; 4% increased Movement Speed; 4% increased Attack and Cast Speed
+Conqueror's Efficiency Crimson Jewel|?2% increased Mana Reserved; 4% increased Skill Effect Duration; 3% reduced Mana Cost of Skills
+Conqueror's Longevity Viridian Jewel|3% chance to Avoid Elemental Status Ailments; 8% increased Life Recovery from Flasks; 2% chance to Dodge Attacks
+Conqueror's Potency Cobalt Jewel|4% increased Effect of your Curses; 8% increased effect of Flasks; 3% increased effect of Auras you Cast
+Poacher's Aim Viridian Jewel|15% chance of Projectiles Piercing; 10% increased Projectile Damage
+Survival Instincts Viridian Jewel|+20-Dexterity; +6% to all Elemental Resistances
+Survival Secrets Cobalt Jewel|3 Mana Regenerated per second; 10% increased Elemental Damage
+Survival Skills Crimson Jewel|10% Increased Physical Damage; +50 to Armour
+Warlord's Reach Crimson Jewel|8% increased Attack Damage; +1 Melee Weapon and Unarmed Range
