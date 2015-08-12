@@ -158,7 +158,7 @@ Maligaro's Virtuosity Deerskin Gloves|+[20-30] to Dexterity; 5% Increased Attack
 Null and Void Legion Gloves|+[20-30] to Strength; [150-170]% increased Armour and Energy Shield; +[50-70] to maximum Life; [20-40]% increased mana Regeneration Rate; Dispels elemental Status Ailments on Rampage; Gain Immunity to Physical Damage for 1.5 seconds on Rampage
 Ondar's Clasp Wrapped Mitts|30% Increased Attack Speed when on Full Life; Adds 1-13 Lightning Damage; +[50-80] to Accuracy; 20% Increased Movement Speed when on Low Life
 Sadima's Touch Wool Gloves|Adds 4-8 Fire Damage; Adds 1-13 Lightning Damage; +18 to Maximum Energy Shield; [12-16]% Increased Quantity of Items Found
-Shackles of The Wretched Chain Gloves|+[40-60]+% increased Block and Stun Recovery; Curses in this item are reflected back to you; You cannot be Chilled for 3 seconds after being Chilled; You cannot be Frozen for 3 seconds after being Frozen; You cannot be Ignited for 3 seconds after being Ignited; You cannot be Shocked for 3 seconds after being Shocked; You grant [4 to 6] Frenzy Charges to allies on Death
+Shackles of the Wretched Chain Gloves|+[40-60]+% increased Block and Stun Recovery; Curses in this item are reflected back to you; You cannot be Chilled for 3 seconds after being Chilled; You cannot be Frozen for 3 seconds after being Frozen; You cannot be Ignited for 3 seconds after being Ignited; You cannot be Shocked for 3 seconds after being Shocked; You grant [4 to 6] Frenzy Charges to allies on Death
 Shadows and Dust Clasped Mitts|[20-30]% increased Global Critical Strike Chance; [15-30]% increased Global Critical Strike Multiplier; [100-130]% increased Evasion and Energy Shield; 1% of Physical Attack Damage Leeched as Mana; Creates a Smoke Cloud on Rampage; Gain Unholy Might for 3 seconds on Rampage
 Slitherpinch Bronzescale Gauntlets|+[40-50] to Dexterity; 5% Increased Attack Speed; 3% of Physical Attack Damage Leeched back as Life; 2% of Physical Attack Damage Leeched back as Mana; [60-100]% Increased Evasion Rating
 Snakebite Assassin's Mitts|[150-180]% increased Evasion Rating; +[60-70] to maximum Life; 2% increased Attack Speed per Frenzy Charge; 6% increased Accuracy Rating per Frenzy Charge; 10% reduced Frenzy Charge Duration per Frenzy Charge; When at Maximum Frenzy Charges, Attacks Poison enemies
@@ -404,23 +404,23 @@ Pugilist Viridian Jewel|1% increased Evasion Rating per 3 Dexterity Allocated in
 Rain of Splinters Crimson Jewel|[30-50]% Reduced Totem Damage; Totems Fire 2 additional Projectiles
 Spire of Stone Crimson Jewel|3% increased Totem Life per 10 Strength in Radius; Totems cannot be Stunned
 Static Electricity Viridian Jewel|Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius Adds 1-2 Lightning Damage to Attacks
-Atziri's Reign Crimson Jewel|[15-20]% increased Vaal Skill Effect Duration  [Corrupted]
-Ancient Waystones Crimson Jewel|60% reduced Mana Cost of Totem Skills that cast an Aura; [Corrupted]
-Blood Sacrifice Crimson Jewel|1% of maximum Mana gained on Kill; Removes 1% of maximum Life on Kill; Removes 1% of maximum Energy Shield on Kill; [Corrupted]
-Brittle Barrier Cobalt Jewel|20% faster start of Energy Shield Recharge; 10% increased Damage Taken while Energy Shield is Full; [Corrupted]
-Chill of Corruption Viridian Jewel|80% chance to gain an additional Vaal Soul per Enemy Shattered; [Corrupted]
-Combustibles Crimson Jewel|10% reduced Quantity of Items found; [20-30]% increased Burning Damage; [Corrupted]
-Corrupted Energy Cobalt Jewel|With 5 Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield; and 50% of Physical Damage bypasses Energy Shield; [Corrupted]
-Fevered Mind Cobalt Jewel|[20-30]% increased Spell Damage; 100% increased Mana Cost of Skills; [Corrupted]
-Fragility Crimson Jewel|-1 to maximum Endurance Charge; [Corrupted]
-Hungry Abyss Viridian Jewel|With 5 Corrupted Items Equipped: Life Leech recovers based on your Chaos; Damage instead; [Corrupted]
-Mutated Growth Crimson Jewel|10% increased Experience Gain of Corrupted Gems; [Corrupted]
-Pacifism Viridian Jewel|-1 maximum Frenzy Charge; [Corrupted]
-Powerlessness Cobalt Jewel|-1 maximum Power Charge; [Corrupted]
-Sacrificial Harvest Viridian Jewel|[20-30]% chance to gain an additional Vaal Soul on Kill; [Corrupted]
-Self-Flagellation Viridian Jewel|You can have one additional Curse.; [10-20]% increased Damage per Curse on you.; [Corrupted]
-Vaal Sentencing Cobalt Jewel|[80-120]% increased Vaal Skill Critical Strike Chance; [Corrupted]
-Weight of Sin Viridian Jewel|[15-20]% increased Chaos Damage; 15% reduced Movement Speed; [Corrupted]
+Atziri's Reign Crimson Jewel|[15-20]% increased Vaal Skill Effect Duration; Corrupted
+Ancient Waystones Crimson Jewel|60% reduced Mana Cost of Totem Skills that cast an Aura; Corrupted
+Blood Sacrifice Crimson Jewel|1% of maximum Mana gained on Kill; Removes 1% of maximum Life on Kill; Removes 1% of maximum Energy Shield on Kill; Corrupted
+Brittle Barrier Cobalt Jewel|20% faster start of Energy Shield Recharge; 10% increased Damage Taken while Energy Shield is Full; Corrupted
+Chill of Corruption Viridian Jewel|80% chance to gain an additional Vaal Soul per Enemy Shattered; Corrupted
+Combustibles Crimson Jewel|10% reduced Quantity of Items found; [20-30]% increased Burning Damage; Corrupted
+Corrupted Energy Cobalt Jewel|With 5 Corrupted Items Equipped: 50% of Chaos Damage does not bypass Energy Shield; and 50% of Physical Damage bypasses Energy Shield; Corrupted
+Fevered Mind Cobalt Jewel|[20-30]% increased Spell Damage; 100% increased Mana Cost of Skills; Corrupted
+Fragility Crimson Jewel|-1 to maximum Endurance Charge; Corrupted
+Hungry Abyss Viridian Jewel|With 5 Corrupted Items Equipped: Life Leech recovers based on your Chaos; Damage instead; Corrupted
+Mutated Growth Crimson Jewel|10% increased Experience Gain of Corrupted Gems; Corrupted
+Pacifism Viridian Jewel|-1 maximum Frenzy Charge; Corrupted
+Powerlessness Cobalt Jewel|-1 maximum Power Charge; Corrupted
+Sacrificial Harvest Viridian Jewel|[20-30]% chance to gain an additional Vaal Soul on Kill; Corrupted
+Self-Flagellation Viridian Jewel|You can have one additional Curse.; [10-20]% increased Damage per Curse on you.; Corrupted
+Vaal Sentencing Cobalt Jewel|[80-120]% increased Vaal Skill Critical Strike Chance; Corrupted
+Weight of Sin Viridian Jewel|[15-20]% increased Chaos Damage; 15% reduced Movement Speed; Corrupted
 Assassin's Haste Cobalt Jewel|10% increased Mana Regeneration Rate; 4% increased Movement Speed; 4% increased Attack and Cast Speed
 Conqueror's Efficiency Crimson Jewel|?2% increased Mana Reserved; 4% increased Skill Effect Duration; 3% reduced Mana Cost of Skills
 Conqueror's Longevity Viridian Jewel|3% chance to Avoid Elemental Status Ailments; 8% increased Life Recovery from Flasks; 2% chance to Dodge Attacks
