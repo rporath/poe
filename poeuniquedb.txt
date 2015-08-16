@@ -1,4 +1,4 @@
-﻿;w4nds
+;w4nds
 
 Abberath's Horn Goat's Horn|[40-60]% increased Global Critical Strike Chance; [20-30]% increased Fire Damage; 25% reduced Ignite Duration on Enemies; Adds [4–6 - 8–12] Fire Damage to Spells; +10 Life gained on Killing Ignited Enemies
 Apep's Rage Opal Wand|Adds [50 – 90 - 65–105] Chaos Damage to Spells; [25-30]% increased Cast Speed; +[5-10]% to Chaos Resistance; 40% increased Mana Cost of Skills
