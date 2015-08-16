@@ -1,4 +1,4 @@
-;w4nds
+﻿;w4nds
 
 Abberath's Horn Goat's Horn|[40-60]% increased Global Critical Strike Chance; [20-30]% increased Fire Damage; 25% reduced Ignite Duration on Enemies; Adds [4–6 - 8–12] Fire Damage to Spells; +10 Life gained on Killing Ignited Enemies
 Apep's Rage Opal Wand|Adds [50 – 90 - 65–105] Chaos Damage to Spells; [25-30]% increased Cast Speed; +[5-10]% to Chaos Resistance; 40% increased Mana Cost of Skills
@@ -438,7 +438,7 @@ Brawn Crimson Jewel|[4-6]% increased Dexterity; [4-6]% increased Strength; [10-1
 Brute Force Solution Crimson Jewel|+[16-24] to Intelligence; Strength from Passives in Radius is Transformed to Intelligence
 Careful Planning Viridian Jewel|+[16-24] to Dexterity; Intelligence from Passives in Radius is Transformed to Dexterity
 Clear Mind Cobalt Jewel|[20-30]% increased Mana Regeneration Rate; [40-60]% increased Spell Damage while no Mana is Reserved
-Cold Steel Viridian Jewel|Increases and Reductions to Physical Damage in Radius are transformed to apply to Cold Damage;Increases and Reductions to Cold Damage in Radius are transformed to apply to Physical Damage
+Cold Steel Viridian Jewel|Increases and Reductions to Physical Damage in Radius are transformed to apply to Cold Damage; Increases and Reductions to Cold Damage in Radius are transformed to apply to Physical Damage
 Efficient Training Crimson Jewel|+[16-24] to Strength; Intelligence from Passives in Radius is Transformed to Strength
 Eldritch Knowledge Cobalt Jewel|5% increased Chaos damage per 10 Intelligence from Allocated Passives in Radius
 Energised Armour Crimson Jewel|[15-20]% increased Armour Increases and Reductions to Energy Shield in Radius are transformed to apply to Armour
