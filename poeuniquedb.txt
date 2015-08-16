@@ -17,7 +17,7 @@ Araku Tiki Coral Amulet|+100 to Evasion Rating when on Low Life; +[30-50] to Max
 Astramentis Onyx Amulet|+[80-100] to all Attributes; -4 Physical Damage Taken from Attacks
 Atziri's Foible Paua Amulet|+50 to maximum Mana; [8-12]% increased maximum Mana; [40-60]% increased Mana Regeneration Rate; Equip Items and Gems as though they had 25% reduced Attribute Requirements
 Blood of Corruption Amber Amulet|Grants level 10 Gluttony of Elements Skill; Adds 19-43 Chaos Damage to Attacks; -[10-5]% to all Elemental Resistances; +[17-29]% to Chaos Resistance; Corrupted
-Carnage Heart Onyx Amulet|+[20-40] to all Attributes; [6-10]% of Physical Damage from Attacks Leeched back as Life; 25% Reduced Maximum Life; 25% Reduced Maximum Energy Shield; +[10-20]% to all Elemental Resistances; Extra Gore 
+Carnage Heart Onyx Amulet|+[20-40] to all Attributes; [1.2-2]% of Physical Damage from Attacks Leeched back as Life; 25% Reduced Maximum Life; 25% Reduced Maximum Energy Shield; +[10-20]% to all Elemental Resistances; Extra Gore 
 Daresso's Salute Citrine Amulet|50% reduced maximum Energy Shield; +[30-40]% to Fire Resistance; +[30-40]% to Cold Resistance; 10% increased Movement Speed when on Full Life; +2 to Melee Weapon and Unarmed range; 60% increased Melee Damage when on Full Life
 Demigod's Presence Gold Amulet|+20% to all Elemental Resistances; 20% Increased Character Size
 Eye of Chayula Onyx Amulet|20% Reduced Maximum Life; 30% Increased Rarity of Items Found; Cannot be Stunned 
@@ -26,7 +26,7 @@ Karui Ward Jade Amulet|+[20-30] to Strength; +100 to Accuracy Rating; 30% Increa
 Marylene's Fallacy Lapis Amulet|+[80-120] to Accuracy Rating; [140-160]% increased Global Critical Strike Multiplier; +[80-100] to Evasion Rating; [10-15] increased Light Radius; Non-critical strikes deal 40% Damage; 40% less Critical Strike Chance; Your Critical Strikes have Culling Strike
 Rashkaldor's Patience Jade Amulet|+[40-79] to maximum Life; +[20-40] to maximum Mana; 20% increased Duration of Elemental Status Ailments on Enemies; Items and Gems have 10% reduced Attribute Requirements; 5% chance to Freeze, Shock and Ignite; Cannot gain Power Charges
 Shaper's Seed Agate Amulet|[30-50]% increased Mana Regeneration Rate; 2% of Life Regenerated per Second; Nearby Allies gain 1% of Life Regenerated per Second; Nearby Allies gain 40% increased Mana Regeneration Rate
-Sidhebreath Paua Amulet|1% of Physical Damage from Attacks Leeched back as Mana; +25% to Cold Resistance; Minions Have [10-15]% Increased Maximum Life; Minions Have [10-15]% Increased Movement Speed; Minions Deal [10-15]% Increased Damage 
+Sidhebreath Paua Amulet|0.2% of Physical Damage from Attacks Leeched back as Mana; +25% to Cold Resistance; Minions Have [10-15]% Increased Maximum Life; Minions Have [10-15]% Increased Movement Speed; Minions Deal [10-15]% Increased Damage 
 Stone of Lazhwar Lapis Amulet|50% of Block Chance Applied to Spells; +[30-50] to Maximum Mana; [10-15]% Increased Cast Speed 
 Talisman of the Victor Jet Amulet|12% to all Elemental Resistances; 6% increased Movement Speed; 6% increased Global Defences
 Tear of Purity Lapis Amulet|Grants level 10 Purity of Elements Skill; +[5-10] to all Attributes; +[20-40] to maximum Life; 5% chance to avoid Elemental Status Ailments
@@ -37,7 +37,7 @@ Warped Timepiece Turquoise Amulet|[8-12]% increased Attack Speed; [8-12]% increa
 
 ;b3lts
 
-Auxium Chain Belt|[10-20]% increased Elemental Damage with Weapons; +[45-55] to maximum Mana; +[60-70] to maximum Energy Shield; Chill and Freeze duration on you is based on 65% of Energy Shield; 1% of Physical Attack Damage Leeched as Mana per Power Charge
+Auxium Chain Belt|[10-20]% increased Elemental Damage with Weapons; +[45-55] to maximum Mana; +[60-70] to maximum Energy Shield; Chill and Freeze duration on you is based on 65% of Energy Shield; 0.2% of Physical Attack Damage Leeched as Mana per Power Charge
 Bated Breath Chain Belt|10% increased Damage; +[15-25] to Intelligence; +[20-30] to maximum Energy Shield; 50% faster start of Energy Shield Recharge
 Belt of the Deceiver Heavy Belt|10% reduced Chance to Block Attacks and Spells; [15-25]% increased Physical Damage; You take 30% reduced Extra Damage from Critical Strikes; +[30-40] to maximum Life; +[6-10]% to all Elemental Resistances
 Demigod's Bounty Golden Obi|+[16-24]% to all Elemental Resistances; 10% increased Character Size
@@ -51,19 +51,19 @@ Meginord's Girdle Heavy Belt|Adds 5-15 Physical Damage; +25 to Strength; 10% Inc
 Perandus Blazon Cloth Belt|+[20-30] to all Attributes; +20% to Fire Resistance; [6-8]% Increased Quantity of Items Found; 20% increased Flask effect duration; -2 Physical Damage Taken from Attacks
 Prismweave Rustic Sash|10% increased Elemental Damage with Weapons; Adds [3–7 - 4–8] Fire Damage; Adds [2–5 - 3–7] Cold Damage; Adds [1–13 - 1–17] Lightning Damage; +[6-8]% to all Elemental Resistances; 30% increased Elemental Damage with Weapons During Flask effects
 Sunblast Cloth Belt|[30-40]% increased Trap Damage; 20% increased Mana Regeneration Rate; +[20-30]% to Fire Resistance; 80% reduced Trap Duration; 25% increased Light Radius; Traps trigger at the end of their Duration; +[25-40] to Maximum Life
-Wurm's Molt Leather Belt|+[20-30] to Strength; +[20-30] to Intelligence; 2% of Physical Attack Damage Leeched back as Life; 2% of Physical Attack Damage Leeched back as Mana; +[10-20]% to Cold Resistance
+Wurm's Molt Leather Belt|+[20-30] to Strength; +[20-30] to Intelligence; 0.4% of Physical Attack Damage Leeched back as Life; 0.4% of Physical Attack Damage Leeched back as Mana; +[10-20]% to Cold Resistance
 
 ;r1ngs
 
 Andvarius Gold Ring|+10 to Dexterity; -20% to all Elemental Resistances; [50-70]% Increased Rarity of Items Found
-Berek's Grip Two-Stone Ring|[10-15]% increased Cold Damage; Adds 1-[1-50] Lightning Damage; +[30-40] to Maximum Life; 5% of Damage against Shocked enemies Leeched as Mana; 5% of Damage against Frozen enemies Leeched as Life
+Berek's Grip Two-Stone Ring|[10-15]% increased Cold Damage; Adds 1-[1-50] Lightning Damage; +[30-40] to Maximum Life; 5% of Damage against Shocked enemies Leeched as Mana; 1% of Damage against Frozen enemies Leeched as Life
 Berek's Pass Two-Stone Ring|[10-15]% increased Fire Damage; Adds 1-[10-30] Cold Damage; +[30-40] to maximum Energy Shield; 30% increased Damage while Ignited; +5000 to Armour while Frozen
 Berek's Respite Two-Stone Ring|Adds 1-[20-25] Fire Damage; [10-15]% increased Lightning Damage; +[30-40] to maximum Mana; Shock a nearby enemy for 2 seconds on killing a Shocked Enemy; Ignite a nearby enemy on killing an Ignited enemy
 Blackheart Iron Ring|5% Increased Physical Damage; Adds 1-3 Chaos Damage; +[20-30] to Maximum Life; [2-4] Life Regenerated per second; 10% Chance to Cause Monsters to Flee
 Bloodboil Coral Ring|Adds [7–15 - 10–20] Fire Damage; +[20-40] to maximum Life; +[10-15]% to Cold Resistance; 45% reduced Effect of Chill on You; 100% increased Ignite Duration on You
 Brinerot Mark Unset Ring|+[15-25] to maximum Energy Shield; [10-25]% increased Spell Damage; +[20-40]% to Lightning Resistance; +2 to Level of Socketed Golem Gems; Socketed Gems are Supported by level 15 Concentrated Effect; Socketed Gems are Supported by level 15 Increased Minion Life
 Call of the Brotherhood Two-Stone Ring|+[15-25] to Intelligence; [30-40]% increased Mana Regeneration Rate; [15-25]% increased Lightning Damage; 50% of Lightning Damage Converted to Cold Damage; Your spells have 100% chance to Shock against Frozen enemies
-Death Rush Amethyst Ring|+[300-350] to Accuracy Rating; +[60-80] to Armour; +[15-20]% to Chaos Resistance; [3-4]% of Physical Attack Damage Leeched back as Life; You gain Onslaught for 2.0 seconds when you Kill an Enemy
+Death Rush Amethyst Ring|+[300-350] to Accuracy Rating; +[60-80] to Armour; +[15-20]% to Chaos Resistance; [0.6-0.8]% of Physical Attack Damage Leeched back as Life; You gain Onslaught for 2.0 seconds when you Kill an Enemy
 Demigod's Eye Golden Hoop|+[8-12] to All Attributes; [16-24]% increased Rarity of Items Found; [30-40]% increased Mana Regeneration Rate; 3% increased Character Size
 Doedre's Damning Paua Ring|+[5-10] to Intelligence; +5 Mana Gained when you kill an Enemy; +5% to all Elemental Resistances; Enemies can have 1 Additional Curse
 Dream Fragments Sapphire Ring|20% Increased Maximum Mana; 50% Increased Mana Regeneration Rate; Cannot be Frozen
@@ -80,14 +80,14 @@ Ngamahu's Sign Ruby Ring|+25 to Strength; Adds [8–12 - 10–14] Fire Damage; +
 Perandus Signet Paua Ring|+[25-30] to maximum Mana; [45-65]% increased Mana Regeneration Rate; 2% increased Experience Gain; 2% increased Intelligence for each Unique Item you have equipped; 3% additional chance for slain monsters to drop Scrolls of Wisdom
 Pyre Sapphire Ring|+[25-35]% to Fire Resistance; [25-40]% increased Burning Damage; 100% of Cold Damage Converted to Fire Damage; 10% increased Light Radius; Ignited enemies you hit are destroyed on Kill
 Redblade Band Unset Ring|+[30-40] to Strength; Adds [8–20 - 12–30] Fire Damage to Attacks; [20-30]% increased Fire Damage; +2 to Level of Socketed Golem Gems; Socketed Gems are Supported by level 12 Lesser Multiple Projectiles; Socketed Gems are Supported by level 17 Increased Minion Damage
-Romira's Banquet Diamond Ring|+333 to Accuracy Rating; [10-15]% increased Global Critical Strike Multiplier; +[40-60] to maximum Mana; 2% of Physical Attack Damage Leeched as Mana; Gain a Power Charge on non-Critical Strike Lose all Power Charges on Critical Strike
+Romira's Banquet Diamond Ring|+333 to Accuracy Rating; [10-15]% increased Global Critical Strike Multiplier; +[40-60] to maximum Mana; 0.4% of Physical Attack Damage Leeched as Mana; Gain a Power Charge on non-Critical Strike Lose all Power Charges on Critical Strike
 Shavronne's Revelation Moonstone Ring|+[15-25] to maximum Energy Shield; +[60-75] to Intelligence; Right ring slot: You cannot Regenerate Mana; Right ring slot: 3.0% of Energy Shield Regenerated per second; Left ring slot: 100% increased Mana Regeneration Rate; Left ring slot: You cannot Recharge or Regenerate Energy Shield
 Sibyl's Lament Coral Ring|[20-30]% increased Elemental Damage with Weapons; Adds [8–20 - 15–28] Fire Damage; [10-20]% reduced Rarity of Items found; Left ring slot: 30% reduced Reflected Elemental Damage taken; Right ring slot: 30% reduced Reflected Physical Damage taken
 Tasalio's Sign Sapphire Ring|Adds 10–15 Physical Damage against Frozen Enemies; Adds [5–7 - 6–9] Cold Damage; +[200-300] to Evasion Rating; 20% reduced Chill Duration on You; 5% chance to Freeze
 The Taming Prismatic Ring|15% increased Elemental Damage with Weapons; 18% to all Elemental Resistances; 15% increased Elemental Damage; 5% chance to Freeze, Shock and Ignite; 10% increased damage per Freeze, Shock and Ignite on enemy
 Thief's Torment Prismatic Ring|+[20-30] Life gained for each enemy hit by your Attacks; +15 Mana gained for each enemy hit by your Attacks; +[8-12]% to all Elemental Resistances; [10-16%] increased Quantity of Items found; 50% reduced Effect of Curses on You; Can't use other Rings
 Timeclasp Moonstone Ring|[10-15]% increased Attack Speed; [5-8]% increased Cast Speed; 15% reduced Mana Regeneration Rate; +[10-25] to maximum Energy Shield; Temporal Chains has 30% reduced Effect on You
-Valako's Sign Topaz Ring|15% increased Damage against Shocked Enemies; 20% increased Lightning Damage; +[20-40] to maximum Mana; 1% of Damage Leeched as Life against Shocked Enemies; 5% chance to Shock
+Valako's Sign Topaz Ring|15% increased Damage against Shocked Enemies; 20% increased Lightning Damage; +[20-40] to maximum Mana; 0.2% of Damage Leeched as Life against Shocked Enemies; 5% chance to Shock
 Ventor's Gamble Gold Ring|+[0-60] to maximum Life; [−10-10]% reduced Quantity of Items found; [−40-40]% reduced Rarity of Items found; +[−25-50]% to Fire Resistance; +[−25-50]% to Cold Resistance; +[−25-50]% to Lightning Resistance
 Voideye Unset Ring|+5 to Level of Gems in this item
 
@@ -104,13 +104,13 @@ Cherrubim's Maleficence Triumphant Lamellar|[10-20]% increased Chaos Damage; [16
 Cloak of Defiance Lacquered Garb|[110-150]% increased Evasion and Energy Shield; +[90-110] to maximum Mana; [40-50]% increased Mana Regeneration Rate; Mind Over Matter
 Cloak of Flame Scholar's Robe|+[30-50]% to Fire Resistance; [30-50]% Increased Burn Duration on Enemies; 10% Chance to Ignite the Enemy on Hit with Fire Damage; Reflects 15 Fire Damage to Melee Attackers; 20% of Physical Damage taken as Fire Damage
 The Covenant Spidersilk Robe|Gems in this Item are Supported by Level 15 Added Chaos Damage; +[20-30] to Intelligence; 20% Reduced Maximum Life; [280-320]% Increased Energy Shield; Blood Magic
-Daresso's Defiance Full Dragonscale|[160-200]% increased Armour and Evasion; +[40-60] to maximum Life; [2-3]% of Physical Attack Damage Leeched as Life; 6% Chance to Dodge all enemy Attacks; You lose all Endurance Charges when Hit; You gain an Endurance Charge on Kill; You gain Onslaught for 1 second per Endurance Charge when Hit
-Death's Oath Astral Plate|+[40-50] to all Attributes; +[10-15]% to Attack Speed; +[180-220]% increased Armour; 5% of Physical Attack Damage Leeched back as Life; Deals 450.0 Chaos Damage per second to nearby enemies; You take 450 Chaos Damage per second for 3 seconds on Kill; Gore Footprints
+Daresso's Defiance Full Dragonscale|[160-200]% increased Armour and Evasion; +[40-60] to maximum Life; [0.4-0.6]% of Physical Attack Damage Leeched as Life; 6% Chance to Dodge all enemy Attacks; You lose all Endurance Charges when Hit; You gain an Endurance Charge on Kill; You gain Onslaught for 1 second per Endurance Charge when Hit
+Death's Oath Astral Plate|+[40-50] to all Attributes; +[10-15]% to Attack Speed; +[180-220]% increased Armour; 1% of Physical Attack Damage Leeched back as Life; Deals 450.0 Chaos Damage per second to nearby enemies; You take 450 Chaos Damage per second for 3 seconds on Kill; Gore Footprints
 Foxshade Wild Leather|Adds 5-12 Physical Damage; +[20-30] to Dexterity; You Gain 150 Evasion Rating when on Full Life; [50-70]% Increased Evasion Rating; 10% Increased Movement Speed
 Greed's Embrace Golden Plate|[10-15]% increased Quantity of Items found; [30-50]% increased Rarity of Items found; −10% to Fire Resistance; +[20-30]% to Cold Resistance; −20% to Lightning Resistance; 20% reduced Movement Speed; 30% reduced Strength Requirement
 Hyrri's Ire Zodiac Leather|+[20-30] to Dexterity; Adds 13-24 Cold Damage; [140-220]% Increased Evasion Rating; 25% Increased Chill Duration on Enemies; 10% chance to Dodge Attacks; 10% chance to Dodge Spell Damage
 Icetomb Latticed Ringmail|+[30-40] to Strength; +[30-40] to Intelligence; [140-160]% increased Armour and Energy Shield; +[50-75]% to Cold Resistance; Cannot be Chilled; 150% increased Chill Duration on enemies
-Incandescent Heart Saintly Chainmail|+[60-80] to Armour; [120-140]% increased Armour and Energy Shield; +[80-90] to maximum Life; [4-5]% of Physical Attack Damage Leeched as Life; 25% of Elemental Damage taken as Chaos Damage; [20-30]% increased Light Radius; Light Radius is based on Energy Shield instead of Life
+Incandescent Heart Saintly Chainmail|+[60-80] to Armour; [120-140]% increased Armour and Energy Shield; +[80-90] to maximum Life; [0.8-1]% of Physical Attack Damage Leeched as Life; 25% of Elemental Damage taken as Chaos Damage; [20-30]% increased Light Radius; Light Radius is based on Energy Shield instead of Life
 Infernal Mantle Widowsilk Robe|+1 to Level of Fire Gems in this item; [25-35]% increased Fire Damage; 100% increased Global Critical Strike Chance; [190-230]% increased Energy Shield; 25% of Fire Damage Converted to Chaos Damage; 100% increased Spell Damage taken when on Low Mana
 Kaom's Heart Glorious Plate|Has no Sockets; +500 to Maximum Life; [20-40]% increased Fire Damage
 Kingsguard Conquest Chainmail|[150-170]% increased Armour and Energy Shield; +[60-90] to maximum Life; +[50-70] to maximum Mana; 30% increased Endurance Charge Duration; Gain 100 Life when an Endurance Charge expires or is consumed
@@ -179,8 +179,8 @@ Ondar's Clasp Wrapped Mitts|30% Increased Attack Speed when on Full Life; Adds 1
 Repentance Crusader Gloves|[200-250]% increased Armour and Energy Shield; 500% increased Attribute Requirements; Iron Will; [20-30]% reduced Attack and Cast Speed
 Sadima's Touch Wool Gloves|Adds 4-8 Fire Damage; Adds 1-13 Lightning Damage; +18 to Maximum Energy Shield; [12-16]% Increased Quantity of Items Found
 Shackles of the Wretched Chain Gloves|+[40-60]+% increased Block and Stun Recovery; Curses in this item are reflected back to you; You cannot be Chilled for 3 seconds after being Chilled; You cannot be Frozen for 3 seconds after being Frozen; You cannot be Ignited for 3 seconds after being Ignited; You cannot be Shocked for 3 seconds after being Shocked; You grant [4 to 6] Frenzy Charges to allies on Death
-Shadows and Dust Clasped Mitts|[20-30]% increased Global Critical Strike Chance; [15-30]% increased Global Critical Strike Multiplier; [100-130]% increased Evasion and Energy Shield; 1% of Physical Attack Damage Leeched as Mana; Creates a Smoke Cloud on Rampage; Gain Unholy Might for 3 seconds on Rampage
-Slitherpinch Bronzescale Gauntlets|+[40-50] to Dexterity; 5% Increased Attack Speed; 3% of Physical Attack Damage Leeched back as Life; 2% of Physical Attack Damage Leeched back as Mana; [60-100]% Increased Evasion Rating
+Shadows and Dust Clasped Mitts|[20-30]% increased Global Critical Strike Chance; [15-30]% increased Global Critical Strike Multiplier; [100-130]% increased Evasion and Energy Shield; 0.2% of Physical Attack Damage Leeched as Mana; Creates a Smoke Cloud on Rampage; Gain Unholy Might for 3 seconds on Rampage
+Slitherpinch Bronzescale Gauntlets|+[40-50] to Dexterity; 5% Increased Attack Speed; 0.6% of Physical Attack Damage Leeched back as Life; 0.4% of Physical Attack Damage Leeched back as Mana; [60-100]% Increased Evasion Rating
 Snakebite Assassin's Mitts|[150-180]% increased Evasion Rating; +[60-70] to maximum Life; 2% increased Attack Speed per Frenzy Charge; 6% increased Accuracy Rating per Frenzy Charge; 10% reduced Frenzy Charge Duration per Frenzy Charge; When at Maximum Frenzy Charges, Attacks Poison enemies
 Southbound Soldier Gloves|Adds [30–44 - 36–50] Cold Damage to Attacks; [12-16]% increased maximum Life; [40-50]% to Cold Resistance; 25% increased Freeze Duration on Enemies; Your Hits can only Kill Frozen enemies
 Surgebinders Dragonscale Gauntlets|[90-110]% increased Armour and Evasion; [4-7]% increased Elemental Damage per Frenzy Charge; [4-7]% increased Physical Damage per Endurance Charge; [4-7]% increased Spell Damage per Power Charge; 10% chance to Steal Power, Frenzy, and Endurance Charges on Hit; [10-30]% reduced Endurance, Frenzy and Power Charge Duration
@@ -197,7 +197,7 @@ Black Sun Crest Lacquered Helmet|+1 to Level of Socketed Gems; [100-150]% increa
 The Bringer of Rain Nightmare Bascinet|Gems in this item are Supported by level 18 Melee Physical Damage; Gems in this item are Supported by level 18 Faster Attacks; Gems in this item are Supported by level 18 Blind; Adds 20-30 Physical Damage; [200-300]% increased Armour and Evasion; +[200-220] to maximum Life; 20% chance to gain an Endurance Charge when you Block; Extra Gore; Can't use Chest armour; 6% Block Chance
 The Broken Crown Prophet Crown|Socketed Gems are supported by level 20 Cast on Death; 20% increased Damage when on Low Life; +[10-15] to all Attributes; [60-100]% increased Armour and Energy Shield; 20% reduced Mana Regeneration Rate; +30 to maximum Energy Shield; +[43-61]% to Chaos Resistance
 Chitus' Apex Necromancer Circlet|+[20-30] to Strength; +[20-30] to Maximum Mana; +10% to all Elemental Resistances; 5% Increased Experience Gain; [10-20]% Increased Elemental Damage
-Crown of Eyes Hubris Circlet|+[200-250] to Accuracy Rating; [120-150]% increased Energy Shield; -30% to Fire Resistance; [2-4]% of Physical Attack Damage Leeched as Life; [1-2]% of Physical Attack Damage Leeched as Mana; Modifiers to Spell Damage also apply to Attack Damage
+Crown of Eyes Hubris Circlet|+[200-250] to Accuracy Rating; [120-150]% increased Energy Shield; -30% to Fire Resistance; [0.4-0.8]% of Physical Attack Damage Leeched as Life; [0.2-0.4]% of Physical Attack Damage Leeched as Mana; Modifiers to Spell Damage also apply to Attack Damage
 Crown of the Pale King Regicide Mask|[0.4-0.8]% of Physical Attack Damage Leeched as Life; [150-200]% increased Evasion and Energy Shield; Reflects 100–150 Physical Damage to Melee Attackers; 30% of Damage you Reflect to enemies is gained as Life
 Crown of Thorns Vine Circlet|+[60-80] Maximum Energy Shield; Reflects 5 Physical Damage to Melee Attackers; Take 5 Physical Damage when Hit by Attacks; Pain Attunement
 Deidbell Gilded Sallet|+[20-30] to Strength; +[20-30] to Dexterity; +[200-300] to Armour; 20% increased Melee Damage; Cannot Leech when on Low Life
@@ -215,7 +215,7 @@ Hrimnor's Resolve Samite Helmet|[30-40]% Increased Fire Damage; [100-120]% Incre
 Leer Cast Festival Mask|30% reduced Damage; +[20-30] to Dexterity; +[20-30] to maximum Life; +[20-30] to maximum Mana; You and nearby allies gain 15% increased Damage
 Malachai's Simula Iron Mask|[15-30]% Increased Spell Damage; +20 to Strength; [20-30]% Increased Lightning Damage; +10% to Lightning Resistance; Blood Magic
 Mindspiral Aventail Helmet|[10-15]% increased Cold Damage; [10-15]% increased Lightning Damage; +[100-150] to maximum Mana; Enemies Cannot Leech Mana From You; [5-10]% of Damage taken Gained as Mana when Hit; Cannot Leech Mana
-The Peregrine Visored Sallet|+100 to Accuracy Rating; 1% of Physical Attack Damage Leeched back as Mana; [40-60]% Increased Armour and Evasion; +30% to Lightning Resistance; [20-30]% Increased Rarity of Items Found; +10% Increased Movement Speed
+The Peregrine Visored Sallet|+100 to Accuracy Rating; 0.2% of Physical Attack Damage Leeched back as Mana; [40-60]% Increased Armour and Evasion; +30% to Lightning Resistance; [20-30]% Increased Rarity of Items Found; +10% Increased Movement Speed
 Rat's Nest Ursine Pelt|15% increased Attack Speed; [60-75]% increased Global Critical Strike Chance; 150% increased Evasion Rating; [20-25]% increased Rarity of Items found; 10% increased Movement Speed; 10% reduced Character Size
 Rime Gaze Mind Cage|Gems in this Item are Supported by Level 15 Concentrated Effect; 30% Increased Cold Damage; +[40-60] to Maximum Mana; [100-120]% Increased Energy Shield; 50% Reduced Energy Shield Cooldown Recovery
 Scold's Bridle Mind Cage|[80-100]% increased Spell Damage; 15% reduced Cast Speed; +[30-60] to maximum Mana; Your Skills deal you 400% of Mana Cost as Physical Damage
@@ -234,7 +234,7 @@ Brinerot Flag Tarnished Spirit Shield|+[70-90] to maximum Energy Shield; [8-12]%
 Broken Faith Archon Kite Shield|0.4% of Chaos Damage Leeched as Life; Gain [5-10]% of Physical Damage as Extra Chaos Damage; -10% Chance to Block; [20-30]% increased Damage when you have no Energy Shield; 30% Chance to gain Unholy Might on Block for 3 seconds
 Chalice of Horrors War Buckler|+1 to Level of Curse Gems in this item; [30-50]% increased Evasion Rating; 100% increased Curse Duration; 5% additional Block Chance; 10% Chance to Cause Monster to Flee on Block
 Chernobog's Pillar Ebony Tower Shield|[120-150]% Increased Armor; +[35-50]% Fire Resistance; 25% of Physical Damage Converted to Fire Damage; Adds [10-25] Fire Damage; 10% chance to Curse Enemies with Enfeeble on Hit
-Crest of Perandus Pine Buckler|3% of Physical Attack Damage Leeched back as Life; +[60-80] to Maximum Life; [5.0-7.5] Life Regenerated per second; +30% to Lightning Resistance; 5% additional Block Chance
+Crest of Perandus Pine Buckler|0.6% of Physical Attack Damage Leeched back as Life; +[60-80] to Maximum Life; [5.0-7.5] Life Regenerated per second; +30% to Lightning Resistance; 5% additional Block Chance
 Daresso's Courage Baroque Round Shield|20% Increased Physical Damage; [100-120]% Increased Armour and Evasion; +[10-20]% to Fire Resistance; +[10-20]% to Cold Resistance; +[10-20]% to Lightning Resistance; 120% of Block Chance Applied to Spells when on Low Life; [3-6]% Additional Block Chance
 The Deep One's Hide Studded Round Shield|Adds 4–8 Physical Damage to Attacks; Adds 4–8 Cold Damage to Attacks; [90-130]% increased Armour and Evasion; +[30-50]% to Fire Resistance; Curse Enemies with level 5 Vulnerability on Block
 Great Old One's Ward Corrugated Buckler|Adds [8–15 - 12–20] Physical Damage; [6-10]% increased Attack Speed; +[50-70] to maximum Life; [8-12]% Chance to Block Spells
@@ -251,7 +251,7 @@ Rise of the Phoenix Mosaic Kite Shield|[80-100]% increased Armour and Energy Shi
 Saffell's Frame Branded Kite Shield|[70-80]% of Block Chance Applied to Spells; [20-30]% Increased Spell Damage; +10% to all Elemental Resistances; +4% to all Maximum Resistances; Cannot Block Attacks
 Sentari's Answer Brass Spirit Shield|25% of Block Chance applied to Spells; +[20-30] to Intelligence; [4-8]% increased Quantity of Items found; 5% additional Block Chance; Applies level 15 Punishment on Blocking a Melee Attack; Applies level 15 Temporal Chains on Blocking a Projectile Attack; Applies level 15 elemental Weakness on Blocking a Spell
 Springleaf Plank Kite Shield|[80-120]% Increased Armour and Energy Shield; 50% Reduced Freeze Duration on you; 5.0% of Life Regenerated per Second while on Low Life; 1% of Life Regenerated per Second
-Thousand Teeth Temu Vaal Buckler|[100-120]% increased Evasion Rating; +[70-90] to Maximum Life; 2% of Physical Attack Damage Leeched as Life; 5% additional Block Chance; Reflects 1–1000 Physical Damage to Attackers on Block
+Thousand Teeth Temu Vaal Buckler|[100-120]% increased Evasion Rating; +[70-90] to Maximum Life; 0.4% of Physical Attack Damage Leeched as Life; 5% additional Block Chance; Reflects 1–1000 Physical Damage to Attackers on Block
 Titucus Span Reinforced Tower Shield|[60-80]% Increased Armour; +[30-50] to Maximum Life; -10 Physical Damage Taken from Ranged Attacks; 200% Increased Armour against Projectiles; +25% Additional Block Chance against Projectiles
 Trolltimber Spire Cedar Tower Shield|+[40-60] to maximum Life; 0.5% of Life Regenerated per Second; 15% increased Area of Effect for Skills used by Totems; 1% of Damage Leeched as Life for Skills used by Totems
 Wheel of the Stormsail Rotted Round Shield|60% increased Block Recovery; +[5-10] to Armour; [30-40]% increased Rarity of Items found; 25% increased Curse Duration; 100% increased Duration of Curses on you; 5% additional Block Chance
@@ -269,14 +269,14 @@ The Screaming Eagle Jade Hatchet|Adds [10–15 - 25–30] Physical Damage; +[10-
 ;2-h4nded 4xes
 
 Atziri's Disfavour Vaal Axe|Adds [220–270 - 235–290] Physical Damage; [12-16]% increased Attack Speed; Causes Bleeding on Hit; +2 to Weapon range; +2 to Level of Support Gems in this item
-The Blood Reaper Headsman Axe|[100-120]% Increased Physical Damage; 5% of Physical Attack Damage Leeched back as Life; +100 to Maximum Life; 10.0 Life Regenerated per Second; 50% Increased Mana Cost of Skills; Causes Bleeding on Hit
+The Blood Reaper Headsman Axe|[100-120]% Increased Physical Damage; 1% of Physical Attack Damage Leeched back as Life; +100 to Maximum Life; 10.0 Life Regenerated per Second; 50% Increased Mana Cost of Skills; Causes Bleeding on Hit
 Kaom's Primacy Karui Chopper|[160-220]% Increased Physical Damage; Adds [16-21]-[32-38] Fire Damage; +[150-250] to Accuracy Rating; +20 Life Gained when you kill an Enemy; Culling Strike
 Kingmaker Despot Axe|+[100-150] to Maximum Mana; [200-250]% increased Physical Damage; [7-12]% increased Attack Speed; Nearby Allies' Spells Have Culling Strike; Nearby Allies Have 30% Increased Item Rarity
 Limbsplit Woodsplitter|+1 to Level of Strength Gems in this Item; [80-100]% Increased Physical Damage; Adds 5-10 Physical Damage; +[15-30] to Strength; Culling Strike
 Reaper's Pursuit Shadow Axe|[100-125]% Increased Physical Damage; +10 Life Gained when you kill an Enemy; [30-40]% Increased Rarity of Items Found; 15% Increased Movement Speed when on Full Life;  Culling Strike;  Hits can't be Evaded
 Wideswing Poleaxe|Gems in this item are Supported by level 20 Increased Area of Effect; [120-160]% increased Physical Damage; +10 to Strength; +[50-80] to Accuracy Rating; +10 Mana Gained on Kill; +2 to Weapon range
 Wings of Entropy Sundering Axe|25% of Block Chance applied to Spells; 8% additional Chance to Block while Dual Wielding; [100-120]% increased Physical Damage; Adds [55-100 - 65-120] Fire Damage in Main Hand; Adds [55-100 - 65-120] Chaos Damage in Off Hand; Counts as Dual Wielding
-The Harvest Jasper Chopper|[120-140]% increased Physical Damage; 3% increased Global Critical Strike Chance per Level; Gain Flask Charges when you deal a Critical Strike; 6% of Damage leeched as Life on Critical Strike
+The Harvest Jasper Chopper|[120-140]% increased Physical Damage; 3% increased Global Critical Strike Chance per Level; Gain Flask Charges when you deal a Critical Strike; 1.2% of Damage leeched as Life on Critical Strike
 
 ;b0ws
 
@@ -307,8 +307,8 @@ Soul Strike Spike-Point Arrow Quiver|+30 to Dexterity; Adds [13–18 - 26–32] 
 
 ;cl4ws
 
-Al Dhih Timeworn Claw|[100-120]% increased Physical Damage; 15% of Physical Attack Damage Leeched back as Life; 10% reduced Enemy Stun Threshold with this Weapon; Gems in this item have 10% Chance to cause Enemies to Flee on Hit
-Bloodseeker Hellion's Paw|[100-120]% increased Physical Damage; Adds 10-12 Physical Damage; 5% increased Attack Speed; 6% of Physical Attack Damage Leeched back as Life; 5% increased Movement Speed; Life Leech from Hits with this Weapon applies instantly
+Al Dhih Timeworn Claw|[100-120]% increased Physical Damage; 3% of Physical Attack Damage Leeched back as Life; 10% reduced Enemy Stun Threshold with this Weapon; Gems in this item have 10% Chance to cause Enemies to Flee on Hit
+Bloodseeker Hellion's Paw|[100-120]% increased Physical Damage; Adds 10-12 Physical Damage; 5% increased Attack Speed; 1.2% of Physical Attack Damage Leeched back as Life; 5% increased Movement Speed; Life Leech from Hits with this Weapon applies instantly
 Cybil's Paw Thresher Claw|[8-12]% increased Cast Speed; +[30-40] to maximum Mana; +[5-8] Life gained for each enemy hit by your Spells; 8% increased Spell Damage per 5% Block Chance
 Essentia Sanguis Eye Gouger|8% Additional Block Chance while Dual Wielding Claws; [80-120]% Increased Physical Damage; Adds 1-50 Lightning Damage; [20-30]% Increased Attack Speed; +[30-40] to Maximum Energy Shield; Ghost Reaver
 Last Resort Nailed Fist|25% increased Attack Speed when on Low Life; [80-100]% increased Physical Damage; Adds 2-10 Physical Damage; 100% increased Claw Physical Damage when on Low Life; 100% increased Accuracy Rating when on Low Life
@@ -337,7 +337,7 @@ Cameria's Maul Gavel|[140-180]% increased Physical Damage; Adds [10-20 - 30-50] 
 The Dark Seer Shadow Sceptre|[30-50]% increased Damage; 7% Global chance to Blind enemies on hit; +1 Mana gained on Kill per Level; +1 Energy Shield gained on Kill per Level; Cannot be Blinded
 Death's Hand Karui Sceptre|Adds [30–80 - 41–123] Physical Damage; [20-50]% increased Critical Strike Chance; 30% chance to gain a Power Charge when you Stun; Gain Unholy Might for 2 seconds on Critical Strike
 Doon Cuebiyari Carnal Sceptre|+[50-70] to Strength; [15-18]% increased Cast Speed; +[20-30] to maximum Mana; Gems in this item are Supported by level 30 Iron Will; 1% increased Damage per 8 Strength when in Main Hand; 1% increased Armour per 16 Strength when in Off Hand
-Doryani's Catalyst Vaal Sceptre|Adds [65–100 - 85–160] Physical Damage; [6-10]% increased Cast Speed; [11-15]% increased Attack Speed; [30-40]% increased Global Critical Strike Chance; [80-100]% increased Elemental Damage; Gems in this item are Supported by level 20 Elemental Proliferation; 1% of Elemental Damage Leeched as Life
+Doryani's Catalyst Vaal Sceptre|Adds [65–100 - 85–160] Physical Damage; [6-10]% increased Cast Speed; [11-15]% increased Attack Speed; [30-40]% increased Global Critical Strike Chance; [80-100]% increased Elemental Damage; Gems in this item are Supported by level 20 Elemental Proliferation; 0.2% of Elemental Damage Leeched as Life
 Flesh-Eater Dream Mace|[60-80]% increased Physical Damage; Adds 10–15 Physical Damage; 10% increased Attack Speed; 1% of Physical Attack Damage leeched as Life; 10% Chance to cause Bleeding on Hit; 1% of Attack Damage leeched as Life against Bleeding Enemies
 Gorebreaker Spiked Club|[300-360]% increased Physical Damage; 20% reduced Attack Speed; [10-20]% reduced Enemy Stun Threshold; [30-50]% increased Stun Duration on Enemies; 30% increased Melee Damage against Bleeding Enemies
 Lavianga's Wisdom War Hammer|+[10-20] to maximum Life; +[10-20] to maximum Mana; [130-160]% increased Physical Damage; 5% reduced Movement Speed; 10% increased Radius of Area Skills; [10-15]% increased Area Damage
@@ -350,22 +350,23 @@ The Supreme Truth Crystal Sceptre|+1 to Level of Gems in this Item; [80-100]% in
 
 Chober Chaber Great Mallet|+1 to Level of Melee Gems in this item; +1 to Level of Minion Gems in this item; [100-120]% increased Physical Damage; 25% increased Maximum Mana; Minions have [20-40]% increased maximum Life; 15% increased Skill Effect Duration; 20% reduced Strength Requirement
 Geofri's Baptism Brass Maul|200% Increased Physical Damage; Adds 11-23 Cold Damage; [10-20]% Increased Stun Duration on Enemies; Never deal Critical Strikes
-Hrimnor's Hymn Sledgehammer|[140-200]% Increased Physical Damage; +10 to Strength; 5% of Physical Attack Damage Leeched back as Life; 15% Reduced Enemy Stun Threshold; [40-50]% Increased Stun Duration on Enemies
+Hrimnor's Hymn Sledgehammer|[140-200]% Increased Physical Damage; +10 to Strength; 1% of Physical Attack Damage Leeched back as Life; 15% Reduced Enemy Stun Threshold; [40-50]% Increased Stun Duration on Enemies
 Jorrhast's Blacksteel Steelhead|[150-200]% increased Physical Damage; [8-12]% increased Cast Speed; [8-12]% increased Attack Speed; 30% less Animate Weapon Duration; Weapons you Animate create an additional copy
 Kongor's Undying Rage Terror Maul|Adds [56-400] Physical Damage; +[15-20]% to all Elemental Resistances; Hits can't be Evaded; Your Critical Strikes do not deal increased Damage; You gain Onslaught for 2 seconds on Critical Strike
 Marohi Erqi Karui Maul|Gems in this Item are Supported by Level 15 Increased Area of Effect; [220-250]% Increased Physical Damage; Adds 10-20 Physical Damage; 10% Reduced Attack Speed; -100 to Accuracy Rating; 10% Reduced Movement Speed; [40-50]% Increased Stun Duration on Enemies
 Quecholli Spiked Maul|[80-100]% increased Physical Damage; Adds 5-25 Physical Damage; +[25-50] to all Attributes; +10 Life gained on Kill; Enemies killed explode dealing 10% of their Life as Fire Damage
-Voidhome Dread Maul|150% Increased Physical Damage; 50% Increased Attack Speed; 2% of Physical Attack Damage Leeched back as Mana; [30-50]% Reduced Rarity of Items Found; [30-50]% Reduced Experience Gain
+Voidhome Dread Maul|150% Increased Physical Damage; 50% Increased Attack Speed; 0.4% of Physical Attack Damage Leeched back as Mana; [30-50]% Reduced Rarity of Items Found; [30-50]% Reduced Experience Gain
 
 ;1-h4nded sw0rds
 
 Aurumvorax Basket Rapier|[120-150]% increased Physical Damage; +3 Life gained for each enemy hit by your Attacks; +[40-60]% to all Elemental Resistances; 20% reduced Rarity of Items found
 Dreamfeather Eternal Sword|Adds [20–40 - 55–70] Physical Damage; [20% - 25%] increased Attack Speed; +[180-200] to Accuracy Rating; +[180-200] to Evasion Rating; 3% increased Movement Speed; 1% increased Attack Damage per 450 Evasion Rating
-Ephemeral Edge Dusk Blade|150% Increased Physical Damage; +10 to Intelligence; 50% Increased Global Critical Strike Chance; [3-5]% of Physical Attack Damage Leeched back as Mana; 10% Reduced Maximum Life; [40-50]% Increased Maximum Energy Shield
+Ephemeral Edge Dusk Blade|150% Increased Physical Damage; +10 to Intelligence; 50% Increased Global Critical Strike Chance; [0.6-1]% of Physical Attack Damage Leeched back as Mana; 10% Reduced Maximum Life; [40-50]% Increased Maximum Energy Shield
 Fidelitas' Spike Jagged Foil|No Physical Damage; Adds [1–40 - 1–50] Lightning Damage; [25-30]% increased Attack Speed; +2 Life gained for each Enemy hit by Attacks; 5% Chance to Shock
 Ichimonji Corsair Sword|Adds [5–13 - 10–20] Physical Damage; [60-80]% increased Physical Damage; [10-15]% increased Attack Speed; 5% reduced Mana Reserved; Allies' Aura Buffs do not affect you; Your Aura Buffs do not affect allies; 10% increased Effect of Buffs on you
 Lakishu's Blade Elegant Sword|[60-80]% increased Physical Damage; Adds [5–10 - 8–14] Physical Damage; [10-15]% increased Attack Speed; [30-40]% reduced Stun Recovery; 20% chance to Avoid being Stunned; Socketed Gems are supported by level 1 Multistrike
-Prismatic Eclipse Twilight Blade|10% additional Chance to Block while Dual Wielding; Adds [20-31 - 30-40] Physical Damage; 25% increased Physical Damage with Weapons per Red Socket; 12% increased Global Attack Speed per Green Socket; 2% of Physical Attack Damage Leeched as Mana per Blue Socket; +2 to Melee Weapon Range per White Socket
+Prismatic Eclipse Twilight Blade|10% additional Chance to Block while Dual Wielding; Adds [20-31 - 30-40] Physical Damage; 25% increased Physical Damage with Weapons per Red Socket; 12% increased Global Attack Speed per Green Socket; 0.4% of Physical Attack Damage Leeched as Mana per Blue Socket; +2 to Melee Weapon Range per White Socket
+Lakishu's Blade Elegant Sword|[60-80]% increased Physical Damage; Adds [5–10 - 8–14] Physical Damage; [10-15]% increased Attack Speed; [30-40]% reduced Stun Recovery; 20% chance to Avoid being Stunned; Socketed Gems are supported by level 1 Multistrike
 Rebuke of the Vaal Vaal Blade|Adds [15-35] Physical Damage; Adds [15-35] Fire Damage; Adds [15-35] Cold Damage; Adds [1-60] Lightning Damage; Adds [15-35] Chaos Damage; [10-20]% increased Attack Speed
 Redbeak Rusted Sword|100% Increased Damage when on Low Life; 50% Increased Physical Damage; Adds 2-6 Physical Damage; 10% Increased Attack Speed; +2 Life Gained for each Enemy hit by Your Attacks; +[20-30] to Maximum Life
 The Goddess Bound Whalebone Rapier|+1 to Level of Melee Gems in this Item; Uses Both Hand Slots; [250-300]% Increased Physical Damage; Adds 3-7 Fire Damage; 20% Increased Attack Speed; 30% Increased Global Critical Strike Chance; +[20-40] to Evasion Rating; 20% Reduced Rarity of Items Found; 30% Increased Movement Speed when on Low Life
@@ -380,7 +381,7 @@ Hyaon's Fury Legion Sword|Adds [1–550 - 1–650] Lightning Damage; [7-10]% inc
 Oro's Sacrifice Infernal Sword|No Physical Damage; Adds [425-550 - 475-600] Fire Damage; [10-15]% increased Attack Speed; 20% Chance to Ignite; 10% increased Physical Damage taken; 10% increased Fire Damage taken; Culling Strike against Burning Enemies; Gain a Frenzy Charge if an Attack Ignites an Enemy
 Queen's Decree Ornate Sword|Minions Have [10-15]% Increased Maximum Life; Minions Deal [10-15]% Increased Damage; +1 to Maximum Number of Zombies; +1 to Maximum Number of Spectres; +2 to Maximum Number of Skeletons; [150-200]% Increased Skeleton Duration; 25% Increased Strength Requirement
 Rigvald's Charge Highland Blade|[120-150]% Increased Physical Damage; 20% Increased Attack Speed; +[150-200] to Accuracy Rating; 10% Increased Movement Speed
-Shiversting Bastard Sword|[80-100]% Increased Physical Damage; Adds 35-70 Cold Damage; 3% of Physical Attack Damage Leeched back as Mana; Cannot be Frozen
+Shiversting Bastard Sword|[80-100]% Increased Physical Damage; Adds 35-70 Cold Damage; 0.6% of Physical Attack Damage Leeched back as Mana; Cannot be Frozen
 Terminus Est Tiger Sword|[120-180]% Increased Physical Damage; 20% Increased Attack Speed; +10 Mana Gained when you kill an Enemy; +10% Increased Movement Speed; Gain a Frenzy Charge on Critical Strike
 
 ;st4ves
@@ -419,7 +420,7 @@ Whakawairua Tuahu Strand Map|Area contains many Totems; Curses have 50% reduced 
 
 ;fl4sks
 
-Atziri's Promise Amethyst Flask|10% of Chaos Damage Leeched as Life during flask effect; Gain [22-25]% of Physical Damage as Extra Chaos Damage during effect; Gain [13-15]% of Elemental Damage as Extra Chaos Damage during effect
+Atziri's Promise Amethyst Flask|2% of Chaos Damage Leeched as Life during flask effect; Gain [22-25]% of Physical Damage as Extra Chaos Damage during effect; Gain [13-15]% of Elemental Damage as Extra Chaos Damage during effect
 Blood of the Karui Sanctified Life Flask|[20-30]% reduced Recovery Speed; No Life Recover Applies during flask effect; Recover Full Life at the end of the flask effect
 Divination Distillate Large Hybrid Flask|[40-60]% increased Rarity of Items found during flask effect; [12-18]% increased Quantity of Items found during flask effect; 25% increased Light Radius during flask effect; +6 to all maximum Elemental Resistances during flask effect
 Doedre's Elixir Greater Mana Flask|Removes 20% of your maximum Energy Shield on use; You take 10% of your maximum Life as Chaos Damage on use; You gain a Power Charge on use; You gain a Frenzy Charge on use; You gain a Endurance Charge on use; [120-150]% increased Charges used
