@@ -405,7 +405,7 @@ The Whispering Ice Vile Staff|+1 to Level of Socketed Support Gems; Grants level
 
 ;m4ps
 
-Acton's Nightmare Overgrown Shrine Map|Area has patches of burning ground; Area is inhabited by Skeletons; [120-150]% increased Rarity of Items found in this Map; Restless Dead; Area is a large Maze; Area contains a Large Chest
+Acton's Nightmare Overgrown Shrine Map|Area has patches of burning ground; Area is inhabited by Skeletons; [220-250]% increased Rarity of Items found in this Map; Restless Dead; Area is a large Maze; Area contains a Large Chest
 The Coward's Trial Crypt Map|Area has [22-25] waves of monsters; Area has [30-50] seconds between monster waves
 Death and Taxes Necropolis Map|Unique Boss deals [50-60] Damage and attacks [20-30]% faster; Unique Boss gives 10000% increased Experience
 Hall of Grandmasters Promenade Map|Contains the Immortalised Grandmasters
