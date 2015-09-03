@@ -51,7 +51,7 @@ Meginord's Girdle Heavy Belt|Adds 5-15 Physical Damage; +25 to Strength; 10% Inc
 Perandus Blazon Cloth Belt|+[20-30] to all Attributes; +20% to Fire Resistance; [6-8]% Increased Quantity of Items Found; 20% increased Flask effect duration; -2 Physical Damage Taken from Attacks
 Prismweave Rustic Sash|10% increased Elemental Damage with Weapons; Adds [3–7 - 4–8] Fire Damage; Adds [2–5 - 3–7] Cold Damage; Adds [1–13 - 1–17] Lightning Damage; +[6-8]% to all Elemental Resistances; 30% increased Elemental Damage with Weapons During Flask effects
 Sunblast Cloth Belt|[30-40]% increased Trap Damage; 20% increased Mana Regeneration Rate; +[20-30]% to Fire Resistance; 80% reduced Trap Duration; 25% increased Light Radius; Traps trigger at the end of their Duration; +[25-40] to Maximum Life
-Wurm's Molt Leather Belt|+[20-30] to Strength; +[20-30] to Intelligence; 0.4% of Physical Attack Damage Leeched back as Life; 0.4% of Physical Attack Damage Leeched back as Mana; +[10-20]% to Cold Resistance
+Wurm's Molt Leather Belt|+[20-30] to Strength; +[20-30] to Intelligence; 0.4% of Physical Attack Damage Leeched as Life; 0.4% of Physical Attack Damage Leeched as Mana; +[10-20]% to Cold Resistance
 
 ;r1ngs
 
