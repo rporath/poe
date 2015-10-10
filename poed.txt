@@ -17,8 +17,8 @@ FB|Fireball, Flame Blast
 FW|Frost Wall
 CS|Cold Snap
 RF|Righteous Fire
-IIR|Increased Item Rarity
-IIQ|Increased Item Quantity
+IIR|Increased Item Rarity (IIQ = Increased Item Quantity)
+IIQ|Increased Item Quantity (IIR = Increased Item Rarity)
 WED|Weapon Elemental Damage
 IAS|Increased Attack Speed
 LMP|Lesser Multiple Projectiles
@@ -45,3 +45,5 @@ ZO|Zealot's Oath (Life Regeneration applies to Energy Shield instead of Life) (1
 c/o|Current Offer
 b/o|Buyout
 CWS|Cast when Stunned
+IC|Immortal Call
+ES|Energy Shield

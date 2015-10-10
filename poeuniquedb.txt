@@ -44,7 +44,6 @@ Demigod's Bounty Golden Obi|+[16-24]% to all Elemental Resistances; 10% increase
 Dyadian Dawn Heavy Belt|+[70-85] to maximum Life; +[20-40]% to Fire Resistance; +[20-40]% to Cold Resistance; Enemies Ignited by an Attack Burn 20% faster; Deal no Physical Damage; 0.6% of Attack Damage Leeched as Life against Chilled enemies
 Headhunter Leather Belt|+[45-55] to Strength; +[40-55] to Dexterity; +[50-60] to Maximum Life; [20-30]% increased Damage against Rare monsters; When you Kill a Rare monster, you gain its mods for 20 seconds
 Immortal Flesh Leather Belt|+[75-100] to Maximum Life; [66.6-75.0] Life Regenerated per second; [8.0-10.0] Mana Regenerated per second; -5% to all maximum Resistances; -[40-50] Physical Damage taken from Attacks; 40% increased Armour while not Ignited, Frozen or Shocked
-Maligaro's Restraint Chain Belt|Adds [1–30 - 1–50] Lightning Damage; 100% increased Shock Duration on You; Shocks you cause are reflected back to you; 60% increased Damage while Shocked; 15% increased Movement Speed while Shocked
 The Magnate Studded Belt|[25-40]% Increased Physical Damage; +[40-50] to Strength; 50% increased Flask Charges gained
 Maligaro's Restraint Chain Belt|Adds [1–30 - 1–50] Lightning Damage; 100% increased Shock Duration on You; Shocks you cause are reflected back to you; 60% increased Damage while Shocked; 15% increased Movement Speed while Shocked
 Meginord's Girdle Heavy Belt|Adds 5-15 Physical Damage; +25 to Strength; 10% Increased Maximum Life; +[10-20]% to Cold Resistance; 25% Increased Flask Life Recovery Rate
