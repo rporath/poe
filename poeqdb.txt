@@ -21,6 +21,7 @@ Molten Shell|+1.5% Chance to Ignite enemies on hit with Fire Damage
 Molten Strike|+0.75% increased Fire Damage (20%q = 15% damage)
 Punishment|+0.5% Physical Damage reflected by Cursed Normal enemies, ~0.3% Physical Damage reflected by Cursed Magic enemies, +0.15% Physical Damage reflected by Cursed Rare enemies, ~0.1% Physical Damage reflected by Cursed Unique enemies
 Purity of Fire|+1% increased Area of Effect Radius
+Rallying Cry|+1.5% increased Duration
 Rejuvenation Totem|+1.5% increased Totem life
 Searing Bond|+1.5% increased Totem life
 Shield Charge|0.75% increased Damage (20%q = 15% damage)
