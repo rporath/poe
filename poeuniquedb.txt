@@ -1,4 +1,4 @@
-;w4nds
+﻿;w4nds
 
 Abberath's Horn Goat's Horn|[40-60]% increased Global Critical Strike Chance; [20-30]% increased Fire Damage; 25% reduced Ignite Duration on Enemies; Adds [4–6 - 8–12] Fire Damage to Spells; +10 Life gained on Killing Ignited Enemies
 Apep's Rage Opal Wand|Adds [50 – 90 - 65–105] Chaos Damage to Spells; [25-30]% increased Cast Speed; +[5-10]% to Chaos Resistance; 40% increased Mana Cost of Skills
@@ -68,6 +68,7 @@ Demigod's Eye Golden Hoop|+[8-12] to All Attributes; [16-24]% increased Rarity o
 Doedre's Damning Paua Ring|+[5-10] to Intelligence; +5 Mana Gained when you kill an Enemy; +5% to all Elemental Resistances; Enemies can have 1 Additional Curse
 Dream Fragments Sapphire Ring|20% Increased Maximum Mana; 50% Increased Mana Regeneration Rate; Cannot be Frozen
 Gifts from Above Diamond Ring|[30-35]% increased Global Critical Strike Chance; [10-15]% increased Light Radius; Creates Consecrated Ground on Critical Strike; [40-50]% increased Rarity of Items Dropped by enemies killed with a Critical Strike
+Heartbound Loop Moonstone Ring|[10-15] Life Regenerated per second; [20-40]% increased Mana Regeneration Rate; Minions have 15% increased maximum Life; Minions have 10% increased Radius of Area Skills; 350 Physical Damage taken on Minion Death
 Kaom's Sign Coral Ring|+[10-20] to Strength; +[2-4] Life gained for each Enemy hit by your Attacks; +1 Maximum Endurance Charge
 Kikazaru Topaz Ring|+[10-15] to all Attributes; [13-17] Life Regenerated per second; [20-40]% increased Mana Regeneration Rate; 20% reduced Effect of Curses on You
 Le Heup of All Iron Ring|[10-20%] increased Damage; +[10-20] to All Attributes; +[10-20%] to All Elemental Resistances; +[10-20%] increased Rarity of Items Found
