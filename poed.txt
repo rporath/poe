@@ -1,3 +1,4 @@
+GC|Glacial Cascade
 AOF|Avatar of Fire (Converts 50% of physical, lightning, and cold damage to fire; Can't deal non-fire damage)
 AA|Arctic Armour
 EA|Explosive Arrow, Elemental Adaptation (+2% all max elemental resistances)
