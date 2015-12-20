@@ -382,6 +382,7 @@ Voidhome Dread Maul|150% Increased Physical Damage; 50% Increased Attack Speed; 
 ;1-h4nded sw0rds
 
 Aurumvorax Basket Rapier|[120-150]% increased Physical Damage; +3 Life gained for each enemy hit by your Attacks; +[40-60]% to all Elemental Resistances; 20% reduced Rarity of Items found
+Chitus' Needle Elegant Foil|[140-160]% increased Physical Damage; +30 to Strength; +30 to Maximum Mana; 5% increased Movement Speed; 30% increased Elemental Damage; +2 to Weapon Range
 Dreamfeather Eternal Sword|Adds [20–40 - 55–70] Physical Damage; [20% - 25%] increased Attack Speed; +[180-200] to Accuracy Rating; +[180-200] to Evasion Rating; 3% increased Movement Speed; 1% increased Attack Damage per 450 Evasion Rating
 Ephemeral Edge Dusk Blade|150% Increased Physical Damage; +10 to Intelligence; 50% Increased Global Critical Strike Chance; [0.6-1]% of Physical Attack Damage Leeched back as Mana; 10% Reduced Maximum Life; [40-50]% Increased Maximum Energy Shield
 Fidelitas' Spike Jagged Foil|No Physical Damage; Adds [1–40 - 1–50] Lightning Damage; [25-30]% increased Attack Speed; +2 Life gained for each Enemy hit by Attacks; 5% Chance to Shock
