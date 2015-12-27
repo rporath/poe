@@ -1,12 +1,15 @@
-66|Crypt, Dried Lake, Dunes, Dungeon, Grotto, Overgrown Ruin, Tropical Island, The Coward's Trial
-67|Arcade, Arsenal, Cemetery, Mountain Ledge, Sewer, Thicket, Wharf, Maelström of Chaos
-68|Ghetto, Mud Geyser, Reef, Spider Lair, Springs, Vaal Pyramid, Vaults of Atziri
-69|Catacombs, Overgrown Shrine, Promenade, Shore, Spider Forest, Tunnel, Acton's Nightmare
-70|Bog, Coves, Graveyard, Pier, Underground Sea
-71|Arachnid Nest, Colonnade, Dry Woods, Strand, Temple
-72|Jungle Valley, Torture Chamber, Waste Pool, Mine
-73|Dry Peninsula, Canyon, Cells, Dark Forest
-74|Gorge, Maze, Underground River
-75|Bazaar, Necropolis, Plateau
-76|Crematorium, Precinct, Academy
-77|Shipyard, Shrine
+68|Dungeon, Grotto, Dunes, Pit, Tropical Island, Crypt, Desert, The Coward's Trial
+69|Channel, Thicket, Mountain Ledge, Cemetery, Arcade, Sewer, Wharf, Maelström of Chaos, Vaults of Atziri
+70|Spider Lair, Vaal Pyramid, Reef, Quarry, Mud Geyser, Ghetto, Museum,Mao Kun,Caer Blaidd Wolfpack's Den
+71|Overgrown Shrine, Tunnel, Shore, Spider Forest, Promenade, Arena, Phantasmagoria, Acton's Nightmare
+72|Pier, Bog, Graveyard, Coves, Villa, Underground Sea
+73|Arachnid Nest, Strand, Dry Woods, Colonnade, Catacombs, Temple, Olmec's Sanctum, Poorjoy's Asylum, Whakawairua Tuahu
+74|Waste Pool, Mine, Jungle Valley, Terrace, Torture Chamber, Oba's Cursed Trove
+75| Canyon, Dark Forest, Dry Peninsula, Orchard, Cells
+76|Arid Lake, Gorge, Residence, Malformation, Underground River
+77|Plateau, Bazaar, Volcano, Necropolis, Death and Taxes
+78|Precinct, Academy, Springs, Crematorium
+79|Overgrown Ruin, Village Ruin, Arsenal, Shipyard
+80|Courtyard, Excavation, Waterways, Wasteland, The Vinktar Square
+81|Shrine, Conservatory, Palace
+82|Abyss, Colosseum, Core
