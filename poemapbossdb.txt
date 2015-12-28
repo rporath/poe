@@ -1,1 +1,105 @@
+Dungeon|Penitentiary Incarcerator
+Grotto|Fire and Fury
 Dunes|The Blacksmith
+Pit|Tore, Towering Ancient
+Tropical Island|Blood Progenitor
+Crypt|Pagan Bishop of Agony
+Desert|Mirage of Bones
+The Coward's Trial|Infector of Dreams
+Untainted Paradise|Clutch Queen, Colossal Spitter, Elder Devourer, Great Maw, Prime Ape, and The First Rhoa
+
+Channel|The Winged Death
+Thicket|Steelpoint the Avenger
+Mountain Ledge|Champion of Frost
+Cemetery|Thunderskull
+Arcade|Herald of Ashes and Herald of Thunder
+Sewer|Belcer, the Pirate Lord
+Wharf|Bramblemist
+Maelström of Chaos|Merveil, the Reflection /Merveil, the Returned
+
+Vaults of Atziri|[None]
+Spider Lair|Hybrid Widow
+Vaal Pyramid|Atziri's Chosen
+Reef|Asphyxia
+Quarry|Void Anomaly
+Mud Geyser|Skullbeak
+Ghetto|The Reaver
+Museum|The Fallen Queen, The Hollow Lady, and The Broken Prince
+Mao Kun|Fairgraves, Never Dying
+Caer Blaidd Wolfpack's Den|[Unknown]
+
+Overgrown Shrine|Hybrid Widow
+Tunnel|Lady of the Brood
+Shore|Glace
+Spider Forest|The Blacksmith
+Promenade|Blackguard Avenger and Blackguard Tempest
+Arena|Avatar of the Forge, Avatar of the Skies, and Avatar of the Huntress
+Phantasmagoria|Thraxia
+Acton's Nightmare|Thorn and Rose
+
+Pier|Flame of Truth
+Bog|Slitherskin
+Graveyard|Merveil, the Reflection
+Coves|Master of the Blade
+Villa|Excellis Aurafix
+Underground Sea|The Idol Beyond
+
+Arachnid Nest|Lord of the Bow
+Strand|Massier
+Dry Woods|Spirit of Nadia and Spirit of Aidan
+Colonnade|Carnage
+Catacombs|Xixic
+Temple|The Wicked One
+Olmec's Sanctum|Achioc the Glacier, Zorioc the Storm, Levioc the Volcano, Izioc the Abyss, and Olmec the All Stone
+Poorjoy's Asylum|Mistress Hyseria
+Whakawairua Tuahu|Tormented Temptress
+
+Waste Pool|Asphyxia
+Mine|Loathe
+Jungle Valley|Spinner of False Hope
+Terrace|Sallazzang
+Torture Chamber|Shock and Horror
+Oba's Cursed Trove|[Time]
+
+Canyon|Lord of the Bow
+Dark Forest|Oak the Mighty
+Dry Peninsula|Titan of the Grove
+Orchard|Tunneltrap
+Cells|Harbinger
+
+Arid Lake|Drought Maddened Rhoa
+Gorge|Master of the Blade
+Residence|The High Templar
+Malformation|Nightmare Manifest
+Underground River|Beast of the Pits
+
+Plateau|Drought Maddened Rhoa
+Bazaar|Dialla's Anger,Dialla's Hatred, and Dialla's Wrath
+Volcano|Forest of Flames
+Necropolis|Merveil the Reflection/Merveil the Returned
+Death and Taxes|Avatar of Ash, Avatar of Winter, Avatar of Silence, and Avatar of Apocalypse
+
+Precinct|Lady Stormflay
+Academy|The Arbiter of Knowledge	
+Springs|Witch of the Cauldron
+Crematorium|Megaera
+
+Overgrown Ruin|Loathe
+Village Ruin|Gnar Eater of Carrion, and Stonebeak Battle Fowl
+Arsenal|Volcanus
+Shipyard|Warmonger
+
+Courtyard|Oriath's Vigil, Oriath's Vengeance, and Oriath's Virtue
+Excavation|Champion of the Hollows, Lord of the Hollows, and Messenger of the Hollows
+Waterways|Fragment of Winter
+Wasteland|The Brittle Emperor
+The Vinktar Square|Avatar of Thunder
+
+Shrine|Piety the Empyrian
+Conservatory|Shadow of the Vaal
+Palace|God's Chosen/The Hallowed Husk
+Vaal Temple|K'aj Q'ura, K'aj Y'ara'az, and K'aj A'alai
+
+Abyss|The Infernal King
+Colosseum|Ambrius, Legion Slayer
+Core|Prodigy of Darkness, Prodigy of Hexes, Prodigy of Pain, Eater of Souls
