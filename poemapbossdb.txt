@@ -1,4 +1,4 @@
-Dungeon|Penitentiary Incarcerator
+﻿Dungeon|Penitentiary Incarcerator
 Grotto|Fire and Fury
 Dunes|The Blacksmith
 Pit|Tore, Towering Ancient
@@ -26,7 +26,7 @@ Mud Geyser|Skullbeak
 Ghetto|The Reaver
 Museum|The Fallen Queen, The Hollow Lady, and The Broken Prince
 Mao Kun|Fairgraves, Never Dying
-Caer Blaidd Wolfpack's Den|[Unknown]
+Caer Blaidd Wolfpack's Den|Storm Eye OR Winterfang
 
 Overgrown Shrine|Hybrid Widow
 Tunnel|Lady of the Brood
