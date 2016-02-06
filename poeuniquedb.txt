@@ -402,6 +402,7 @@ Rebuke of the Vaal Vaal Blade|Adds [19–31 - 28–40] Physical Damage; Adds [19
 Redbeak Rusted Sword|100% Increased Damage when on Low Life; 50% Increased Physical Damage; Adds 2-6 Physical Damage; 10% Increased Attack Speed; +2 Life Gained for each Enemy hit by Your Attacks; +[20-30] to Maximum Life
 The Goddess Bound Whalebone Rapier|+1 to Level of Melee Gems in this Item; Uses Both Hand Slots; [250-300]% Increased Physical Damage; Adds 3-7 Fire Damage; 20% Increased Attack Speed; 30% Increased Global Critical Strike Chance; +[20-40] to Evasion Rating; 20% Reduced Rarity of Items Found; 30% Increased Movement Speed when on Low Life
 The Goddess Scorned Elegant Sword|Uses both hand slots; [250-300]% increased Physical Damage; [90-110]% increased Critical Strike Chance; [15-20]% increased Global Critical Strike Multiplier; +[40-50]% to Fire Resistance; Cannot be Ignited; 100% of Physical Damage Converted to Fire Damage; Ignited Enemies Burn 50% faster; You can only deal Damage with this Weapon
+The Goddess Unleashed Eternal Sword|Uses both hand slots; Adds [3–33 - 6–66] Physical Damage; [44- 66]% increased Critical Strike Chance; 33% increased Ignite Duration on Enemies; [66-99]% of Sword Physical Damage Added as Fire Damage; Gain Her Blessing for 3 seconds when you Ignite an Enemy; 33% chance to Blind nearby Enemies when gaining Her Blessing; Cannot be Frozen, Chilled or Ignited with Her Blessing; 20% increased Attack and Movement Speed with Her Blessing
 The Princess Sabre|[20-50]% increased Physical Damage; Adds [3–5 - 4–8] Physical Damage; 15% increased Attack Speed; Gain 10% of Physical Damage as Extra Cold Damage; 10% increased Damage taken from Skeletons; 10% increased Damage taken from Ghosts
 
 ;2-h4nded sw0rds
@@ -450,12 +451,14 @@ Olmec's Sanctum Maze Map|[40-50]% increased Monster Life; [30-40]% increased Mon
 Poorjoy's Asylum Temple Map|[140-160]% increased Monster Life; [140-160]% increased Monster Damage; 25% increased Monster Movement Speed; 25% increased Monster Attack Speed; 25% increased Monster Cast Speed; 250% increased Rarity of Items found in this Map; Area is a Large Maze; 150% increased Experience gain; Unique Boss drops [10-15] additional [Item Type]
 Untainted Paradise Tropical Island Map|Area has increased monster variety; Area is inhabited by wild Animals; Monsters drop no Items; [300-400]% increased Experience gain
 Vaults of Atziri Vaal Pyramid Map|Chests have [1800-2000]% increased Item Rarity; Area contains no monsters
+The Vinktar Square Courtyard Map|20% more Monster Life; Monsters cannot be Shocked; 30% increased Monster Damage; +35% Monster Lightning Resistance; Monsters deal 35% extra Damage as Lightning
 Whakawairua Tuahu Strand Map|Area contains many Totems; Curses have 50% reduced effect on Monsters; [120-160]% increased Rarity of Items found in this Area; Rare monsters each have a Nemesis Mod
 
 ;fl4sks
 
 Atziri's Promise Amethyst Flask|2% of Chaos Damage Leeched as Life during flask effect; Gain [22-25]% of Physical Damage as Extra Chaos Damage during effect; Gain [13-15]% of Elemental Damage as Extra Chaos Damage during effect
 Blood of the Karui Sanctified Life Flask|[20-30]% reduced Recovery Speed; No Life Recover Applies during flask effect; Recover Full Life at the end of the flask effect
+Coruscating Elixir Ruby Flask|Chaos damage does not bypass Energy Shield during effect; Removes all but one Life on use; Removed life is regenerated as Energy Shield over 2 seconds
 Divination Distillate Large Hybrid Flask|[40-60]% increased Rarity of Items found during flask effect; [12-18]% increased Quantity of Items found during flask effect; 25% increased Light Radius during flask effect; +6 to all maximum Elemental Resistances during flask effect
 Doedre's Elixir Greater Mana Flask|Removes 20% of your maximum Energy Shield on use; You take 10% of your maximum Life as Chaos Damage on use; You gain a Power Charge on use; You gain a Frenzy Charge on use; You gain a Endurance Charge on use; [120-150]% increased Charges used
 Forbidden Taste Quartz Flask|50% increased Charges used; Recover 75% of your maximum life on use; 8% of maximum Life taken as Chaos Damage per Second
@@ -498,8 +501,8 @@ Lioneye's Fall Viridian Jewel|Melee and Melee Weapon Type Modifiers in Radius ar
 Malicious Intent Cobalt Jewel|5% chance to Gain Unholy Might for 4 seconds on Melee Kill
 Mantra of Flames Crimson Jewel|Adds [3–8 - 5–12] Fire Attack Damage per Buff on You;Adds [3–8 - 5–12] Fire Spell Damage per Buff on You
 Martial Artistry Crimson Jewel|[10-15]% Increased Area of Effect while Unarmed
-Might in All Forms Crimson Jewel|Dexterity and Intelligence from passives in Radius; count towards Strength Melee Damage bonus
-Pitch Darkness Viridian Jewel|[5-15]% increased Fire Damage; With at least 50 Dexterity Allocated in Radius, Burning Arrow has a 10% chance to spread Burning Ground if it Ignites an Enemy.; With at least 50 Dexterity Allocated in Radius, Burning Arrow has a 10% chance to spread Tar if it does not Ignite an Enemy.
+Might in All Forms Crimson Jewel|Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus
+Pitch Darkness Viridian Jewel|[5-15]% increased Fire Damage; With at least 50 Dexterity Allocated in Radius, Burning Arrow has a 10% chance to spread Burning Ground if it Ignites an Enemy; With at least 50 Dexterity Allocated in Radius, Burning Arrow has a 10% chance to spread Tar if it does not Ignite an Enemy
 Pugilist Viridian Jewel|1% increased Evasion Rating per 3 Dexterity Allocated in Radius 1% increased Claw Physical Damage per 3 Dexterity Allocated in Radius;1% increased Melee Physical Damage while Unarmed per 3 Dexterity Allocated in Radius
 Rain of Splinters Crimson Jewel|[30-50]% Reduced Totem Damage; Totems Fire 2 additional Projectiles
 Rapid Expansion Crimson Jewel|[4-12]% increased Physical Damage; With at least 50 Strength Allocated in radius, Ground Slam has a 20% increased angle
@@ -531,7 +534,7 @@ Mutated Growth Crimson Jewel|10% increased Experience Gain of Corrupted Gems; Co
 Pacifism Viridian Jewel|-1 maximum Frenzy Charge; Corrupted
 Powerlessness Cobalt Jewel|-1 maximum Power Charge; Corrupted
 Sacrificial Harvest Viridian Jewel|[20-30]% chance to gain an additional Vaal Soul on Kill; Corrupted
-Self-Flagellation Viridian Jewel|You can have one additional Curse.; [10-20]% increased Damage per Curse on you.; Corrupted
+Self-Flagellation Viridian Jewel|You can have one additional Curse; [10-20]% increased Damage per Curse on you; Corrupted
 Vaal Sentencing Cobalt Jewel|[80-120]% increased Vaal Skill Critical Strike Chance; Corrupted
 Weight of Sin Viridian Jewel|[15-20]% increased Chaos Damage; 15% reduced Movement Speed; Corrupted
 
