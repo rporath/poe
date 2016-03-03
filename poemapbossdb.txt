@@ -55,7 +55,7 @@ Poorjoy's Asylum|Mistress Hyseria
 Whakawairua Tuahu|Tormented Temptress
 
 Waste Pool|Asphyxia
-Mine|Loathe
+Abandoned Cavern|The Eroding One
 Jungle Valley|Spinner of False Hope
 Terrace|Sallazzang
 Torture Chamber|Shock and Horror
@@ -74,6 +74,7 @@ Malformation|Nightmare Manifest
 Underground River|Beast of the Pits
 
 Plateau|Drought Maddened Rhoa
+Chateau|Unknown
 Bazaar|Dialla's Anger,Dialla's Hatred, and Dialla's Wrath
 Volcano|Forest of Flames
 Necropolis|Merveil the Reflection/Merveil the Returned
