@@ -4,10 +4,10 @@
 71|Overgrown Shrine, Tunnel, Shore, Spider Forest, Promenade, Arena, Phantasmagoria, Acton's Nightmare
 72|Pier, Bog, Graveyard, Coves, Villa, Underground Sea
 73|Arachnid Nest, Strand, Dry Woods, Colonnade, Catacombs, Temple, Olmec's Sanctum, Poorjoy's Asylum, Whakawairua Tuahu
-74|Waste Pool, Mine, Jungle Valley, Terrace, Torture Chamber, Oba's Cursed Trove
+74|Waste Pool, Abandoned Cavern, Jungle Valley, Terrace, Torture Chamber, Oba's Cursed Trove
 75| Canyon, Dark Forest, Dry Peninsula, Orchard, Cells
 76|Arid Lake, Gorge, Residence, Malformation, Underground River
-77|Plateau, Bazaar, Volcano, Necropolis, Death and Taxes
+77|Plateau, Bazaar, Volcano, Chateau, Necropolis, Death and Taxes
 78|Precinct, Academy, Springs, Crematorium
 79|Overgrown Ruin, Village Ruin, Arsenal, Shipyard
 80|Courtyard, Excavation, Waterways, Wasteland, The Vinktar Square
