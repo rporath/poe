@@ -1,3 +1,19 @@
+﻿1|Dungeon, Grotto, Dunes, Pit, Tropical Island, Crypt, Desert, The Coward's Trial
+2|Channel, Thicket, Mountain Ledge, Cemetery, Arcade, Sewer, Wharf, Maelström of Chaos, Vaults of Atziri
+3|Spider Lair, Vaal Pyramid, Reef, Quarry, Mud Geyser, Ghetto, Museum,Mao Kun,Caer Blaidd Wolfpack's Den
+4|Overgrown Shrine, Tunnel, Shore, Spider Forest, Promenade, Arena, Phantasmagoria, Acton's Nightmare
+5|Pier, Bog, Graveyard, Coves, Villa, Underground Sea
+6|Arachnid Nest, Strand, Dry Woods, Colonnade, Catacombs, Temple, Olmec's Sanctum, Poorjoy's Asylum, Whakawairua Tuahu
+7|Waste Pool, Abandoned Cavern, Jungle Valley, Terrace, Torture Chamber, Oba's Cursed Trove
+8| Canyon, Dark Forest, Dry Peninsula, Orchard, Cells
+9|Arid Lake, Gorge, Residence, Malformation, Underground River
+10|Plateau, Bazaar, Volcano, Chateau, Necropolis, Death and Taxes
+11|Precinct, Academy, Springs, Crematorium
+12|Overgrown Ruin, Village Ruin, Arsenal, Shipyard
+13|Courtyard, Excavation, Waterways, Wasteland, The Vinktar Square
+14|Shrine, Conservatory, Palace
+15|Abyss, Colosseum, Core
+
 68|Dungeon, Grotto, Dunes, Pit, Tropical Island, Crypt, Desert, The Coward's Trial
 69|Channel, Thicket, Mountain Ledge, Cemetery, Arcade, Sewer, Wharf, Maelström of Chaos, Vaults of Atziri
 70|Spider Lair, Vaal Pyramid, Reef, Quarry, Mud Geyser, Ghetto, Museum,Mao Kun,Caer Blaidd Wolfpack's Den
