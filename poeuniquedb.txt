@@ -588,4 +588,4 @@ Warlord's Reach Crimson Jewel|8% increased Attack Damage; +1 Melee Weapon and Un
 
 Conqueror's Longevity Viridian Jewel|3% chance to Avoid Elemental Status Ailments; 8% increased Life Recovery from Flasks; 2% chance to Dodge Attacks
 Poacher's Aim Viridian Jewel|15% chance of Projectiles Piercing; 10% increased Projectile Damage
-Survival Instincts Viridian Jewel|+20-Dexterity; +6% to all Elemental Resistances
+Survival Instincts Viridian Jewel|+20 Dexterity; +6% to all Elemental Resistances
