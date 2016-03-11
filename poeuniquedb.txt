@@ -84,7 +84,7 @@ Demigod's Eye Golden Hoop|+[8-12] to All Attributes; [16-24]% increased Rarity o
 Doedre's Damning Paua Ring|+[5-10] to Intelligence; +5 Mana Gained when you kill an Enemy; +5% to all Elemental Resistances; Enemies can have 1 Additional Curse
 Dream Fragments Sapphire Ring|20% Increased Maximum Mana; 50% Increased Mana Regeneration Rate; Cannot be Frozen
 Emberwake Ruby Ring|[15-25]% increased Fire Damage; +[5-10]% increased Cast Speed; 5% chance to Ignite; You can inflict multiple Ignites on an Enemy; Your Critical Strikes do not deal increased Damage; 80% less Burning Damage
-Essence Worm|No info yet
+Essence Worm Unset Ring|Has 1 Socket; +2 to Level of Socketed Aura Gems; Socketed Gems Reserve No Mana; 40% increased Mana Reserved
 Gifts from Above Diamond Ring|[30-35]% increased Global Critical Strike Chance; [10-15]% increased Light Radius; Creates Consecrated Ground on Critical Strike; [40-50]% increased Rarity of Items Dropped by enemies killed with a Critical Strike
 Heartbound Loop Moonstone Ring|[10-15] Life Regenerated per second; [20-40]% increased Mana Regeneration Rate; Minions have 15% increased maximum Life; Minions have 10% increased Radius of Area Skills; 350 Physical Damage taken on Minion Death
 Kaom's Sign Coral Ring|+[10-20] to Strength; +[2-4] Life gained for each Enemy hit by your Attacks; +1 Maximum Endurance Charge
@@ -589,4 +589,4 @@ Warlord's Reach Crimson Jewel|8% increased Attack Damage; +1 Melee Weapon and Un
 
 Conqueror's Longevity Viridian Jewel|3% chance to Avoid Elemental Status Ailments; 8% increased Life Recovery from Flasks; 2% chance to Dodge Attacks
 Poacher's Aim Viridian Jewel|15% chance of Projectiles Piercing; 10% increased Projectile Damage
-Survival Instincts Viridian Jewel|+20-Dexterity; +6% to all Elemental Resistances
+Survival Instincts Viridian Jewel|+20 Dexterity; +6% to all Elemental Resistances
