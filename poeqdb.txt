@@ -1,176 +1,263 @@
-Arc|+0.5% chance to Shock enemy on hit with Lightning Damage
-
-Anger|+1% increased Area of Effect Radius
+Abyssal Cry|1% increased Skill Effect Duration
+Anger|+1% increased Area of Effect radius
+Ancestral Protector|1% increased Totem Damage
 Animate Guardian|Minions have 2% increased Movement Speed
 Cleave|+0.5% increased Attack Speed
-Decoy Totem|+1.5% increased Totem Life
-Determination|+1% increased Area of Effect Radius
-Devouring Totem|+1.5% increased Totem Life
-Dominating Blow|+0.3 seconds increased Duration (20%q = 6% increased duration)
-Enduring Cry|+1% increased Area of Effect Radius
-Flame Totem|+1.5% increased Totem life
-Glacial Hammer|+1% increased Freeze Duration, +2% increased Chill Duration
+Decoy Totem|+1% increased Totem Life
+Determination|+1% increased Area of Effect radius
+Devouring Totem|1% increased Totem Life
+Dominating Blow|+0.5% increased damage
+Earthquake|1% increased Physical Damage
+Enduring Cry|+3% increased Area of Effect radius
+Flame Totem|1% increased totem life
+Glacial Hammer|+1% increased Freeze Duration +2% increased Chill Duration
 Ground Slam|+1.5% increased Stun Duration on enemies
-Heavy Strike|+0.75% increased Attack Speed (20%q = 15% attack speed)
-Herald of Ash|0.75% increased fire damage(20q = 15% increased fire damage)
-Immortal Call|Additional +0.01 seconds Base Duration per Endurance Charge
-Infernal Blow|+1% increased Area of Effect Radius
-Leap Slam|+1.5% increased Stun Duration
-Lightning Strike|+3% chance of Projectiles Piercing
-Molten Shell|+1.5% Chance to Ignite enemies on hit with Fire Damage
-Molten Strike|+0.75% increased Fire Damage (20%q = 15% damage)
-Punishment|+0.5% Physical Damage reflected by Cursed Normal enemies, ~0.3% Physical Damage reflected by Cursed Magic enemies, +0.15% Physical Damage reflected by Cursed Rare enemies, ~0.1% Physical Damage reflected by Cursed Unique enemies
-Purity of Fire|+1% increased Area of Effect Radius
-Rejuvenation Totem|+1.5% increased Totem life
-Searing Bond|+1.5% increased Totem life
-Shield Charge|0.75% increased Damage (20%q = 15% damage)
-Shockwave Totem|+1.5% increased totem life
-Sweep|0.5% increased Attack Speed
-Vitality|+1% increased Area of Effect Radius
-Warlord's Mark|Cursed enemies have an additional 1.5% chance to grant an Endurance Charge when slain
+Heavy Strike|+1% increased Stun Duration on enemies
+Herald of Ash|0.75% increased Fire Damage
+Ice Crash|+1% increased Cold Damage
+Immortal Call|2% increased Cast Speed
+Infernal Blow|+0.5% increased Area of Effect radius
+Leap Slam|+0.5% chance to Knock Enemies Back on hit
+Molten Shell|+1% Chance to Ignite enemies
+Molten Strike|1% increased Fire Damage
+Punishment|Cursed enemies grant 0.25% increased Attack Speed on Melee hit
+Purity of Fire|+1% increased Area of Effect radius
+Rallying Cry|1.5% Increased Duration
+Reckoning|0.5% Increased Area of Effect Radius
+Rejuvenation Totem|+3% Increased Aura Radius
+Searing Bond|1% increased Totem Life
+Shield Charge|+1% increased Damage
+Shockwave Totem|+1% increased totem life
+Static Strike|0.5% increased Area of Effect radius
+Summon Flame Golem|1% increased Minion Maximum Life 1% increased Minion Damage
+Summon Stone Golem|1% increased Minion Maximum Life 1% increased Minion Damage
+Sunder|0.5% increased Radius of Area Skills
+Sweep|0.5% increased Area of Effect Radius
+Vengeance|0.5% chance to Counterattack with this Skill when Hit
+Vigilant Strike|+1% increased Fortify duration
+Vitality|+1% increased Area of Effect radius
+Warlord's Mark|Cursed enemies have an additional 0.5% chance to grant an Endurance Charge when slain
 
 Animate Weapon|Minions have 2% increased Movement Speed
-Arctic Armour|+0.35% increased Movement Speed (20%q = 7% movement speed)
-Barrage|+0.5% increased Projectile Damage
-Bear Trap|+0.75% increased Physical Damage (20%q = 15% damage)
-Blood Rage|+0.2% of Physical Damage from Attacks Leeched back as Life, +0.75% increased Attack Speed when on Low Life (20%q = 4% leech, 15% attack speed on low life)
-Burning Arrow|+3% increased Burn Duration on enemies
-Cyclone|+1% increased Area of Effect Radius
-Detonate Dead|3% increased Cast Speed
+Arctic Armour|+1% increased Skill Effect Duration
+Barrage|0.5% increased Projectile Damage
+Bear Trap|+1% increased Physical Damage
+Blade Vortex|0.5% increase Area of Effect Radius
+Bladefall|0.5% increased Area of Effect radius
+Blast Rain|+0.5% Increased Area of Effect Radius
+Blink Arrow|1.5% increased Arrow Speed
+Blood Rage|+0.25% increased Attack Speed
+Burning Arrow|+3% increased Ignite Duration on enemies
+Caustic Arrow|+0.5% increased Area of Effect radius
+Cyclone|+0.5% increased Area of Effect Radius
+Desecrate|+1% increased Cast Speed
+Detonate Dead|1% increased Cast Speed
 Double Strike|0.5% increased Attack Speed
-Dual Strike|4% increased Critical Strike Chance
-Elemental Hit|+4% increased Critical Strike Chance
-Ethereal Knives|0.75% increased Projectile Damage (20%q = 15% damage)
+Dual Strike|+0.5% increased Attack Speed
+Elemental Hit|1% increased Elemental Damage
+Ethereal Knives|1% increased Projectile Speed
 Explosive Arrow|+1% Chance to Ignite enemies on hit with Fire Damage
 Fire Trap|1.5% increased Burning Damage
-Flicker Strike|+4% increased Critical Strike Chance
-Freeze Mine|+0.5% increased Area of Effect Radius
-Frenzy|+0.2% increased Attack Speed per Frenzy Charge (20%q = 4% increased attack speed per frenzy charge)
-Grace|+1% increased Area of Effect Radius
-Haste|+1% increased Area of Effect Radius
-Hatred|+1% increased Area of Effect Radius
-Herald of Ice|0.75% increased cold damage(20q = 15% increased cold damage)
-Ice Shot|0.75% increased Skill Effect Duration (20%q = 15% increased duration)
-Lightning Arrow|+1.5% Shock duration
-Phase Run|+1% increased Melee Physical Damage
-Poison Arrow|+1% increased Area of Effect radius
-Projectile Weakness|+0.75% Chance to Pierce Cursed enemies (20%q = 15% chance to pierce)
-Puncture|+1.5% increased Skill Effect Duration
+Flicker Strike|1% increased Damage
+Freeze Mine|+0.5% increased Area of Effect radius
+Frenzy|0.5% increased Attack Speed
+Frost Blades|1% increased Projectile Damage
+Grace|+1% increased Area of Effect radius
+Haste|+1% increased Area of Effect radius
+Hatred|+1% increased Area of Effect radius
+Herald of Ice|0.75% increased cold damage
+Ice Shot|1% increased Cold Damage
+Ice Trap|0.5% increased Radius of Area Skills
+Lightning Arrow|+0.5% increased chance to Shock enemies
+Lightning Strike|+2% chance of Projectiles Piercing
+Mirror Arrow|1.5% increased Arrow Speed
+Phase Run|+0.5% increased Movement Speed
+Poacher's Mark|Cursed enemies have an additional 0.5% chance to grant a Frenzy Charge when slain
+Projectile Weakness|+0.5% Chance to Pierce Cursed enemies
+Puncture|+1% increased Skill Effect Duration
 Purity of Ice|+1% increased Area of Effect radius
-Rain of Arrows|+0.5% increased Attack Speed
+Rain of Arrows|0.5% increased Area of Effect radius
 Reave|+0.5% increased Attack Speed
-Smoke Mine|1% increased Area of Effect Radius
+Riposte|+1% increased damage
+Shrapnel Shot|+0.5% increased Area of Effect radius
+Siege Ballista|+1% Increased Totem Placement Speed
+Smoke Mine|1% increased Area of Effect radius
 Spectral Throw|0.5% increased Attack Speed
 Split Arrow|+0.5% increased Attack Speed
+Summon Ice Golem|1% increased Minion Maximum Life, 1% increased Minion Damage
 Temporal Chains|Cursed enemies are +0.5% slower
-Viper Strike|+1.5% increased Skill Effect Duration, +0.5% increased Attack Speed
+Tornado Shot|1% increased Projectile Damage
+Viper Strike|+0.5% increased Attack Speed
 Whirling Blades|+0.5% increased Attack Speed
+Wild Strike|1% increased Elemental Damage
 
-Arctic Breath|+0.75% increased Skill Effect Duration (20%q = 15% increased duration)
-Clarity|1% increased Area of Effect Radius
-Cold Snap|+0.5% increased Freeze Duration on enemies, +1% increased Chill Duration on enemies
+Arc|+0.5% chance to Shock enemies
+Arctic Breath|0.5% increased Area of Effect radius
+Assassin's Mark|Cursed enemies have a 0.5% increased chance to grant a Power Charge when slain
+Ball Lightning|1% increased Lightning Damage
+Bone Offering|0.5% increased Skill Effect Duration
+Clarity|1% increased Area of Effect radius
+Cold Snap|0.5% increased Area of Effect radius
 Conductivity|Shocks on Cursed Enemies have 1% increased Duration
-Conversion Trap|+0.75% increased Skill Effect Duration (20%q = 15% duration)
-Critical Weakness|Cursed enemies take +1.5% more extra damage from Critical Strikes
-Discharge|+1% increased Area of Effect Radius
-Discipline|+1% increased Area of Effect Radius
-Elemental Weakness|Cursed Enemies lose 0.4% Elemental Resistance (20%q = 8% resistance)
-Enfeeble|Cursed enemies have 0.75% reduced Accuracy Rating (20%q = 15% reduced accuracy rating)
-Fireball|+1.5% chance to Ignite enemies on hit with Fire Damage
-Firestorm|Reduces the time between each fireball by 0.0015s (20%q = 0.03s)
-Flameblast|+1% chance to Ignite enemies
+Contagion|0.5% increased Area of Effect radius
+Conversion Trap|1% increased Skill Effect Duration
+Convocation|1% increased Skill Effect Duration, 0.5% increased Cast Speed
+Discharge|+0.5% increased Area of Effect radius
+Discipline|+1% increased Area of Effect radius
+Elemental Weakness|Cursed Enemies lose 0.25% Elemental Resistance
+Enfeeble|Cursed enemies have 0.5% reduced Accuracy Rating and Critical Strike Chance
+Essence Drain|1% increased Chaos Damage
+Fire Nova Mine|1% increased Fire Damage
+Fireball|+0.5% chance to Ignite enemies
+Firestorm|+1% increased Area Damage
+Flame Dash|+0.5% increased Cast Speed
+Flame Surge|0.5% increased Cast Speed
+Flameblast|1% increased Damage
 Flammability|Burns on Cursed Enemies have +1% increased Duration
-Freezing Pulse|+3% increased Projectile Speed
+Flesh Offering|0.5% increased Skill Effect Duration
+Freezing Pulse|+2% increased Projectile Speed
+Frost Bomb|1% increased Cold Damage
+Frost Wall|1% increased Skill Effect Duration
 Frostbite|Freezes on Cursed Enemies have +1% increased Duration
-Frost Wall|+0.75 units Wall length (20%q = 15 "units")
-Herald of Thunder|0.75% increased lightning damage(20q = 15% increased lightning damage)
-Ice Nova|+1% increased Area of Effect Radius
-Ice Spear|+3% increased Projectile Speed
-Incinerate|+2% increased Projectile Speed
-Lightning Trap|+1% increased Trap Throwing Speed
-Lightning Warp|+1.5% increased Cast Speed
-Power Siphon|+0.75% increased Damage (20%q = 15% damage)
-Purity of Elements|+1% increased Area of Effect Radius
+Glacial Cascade|+1% increased Damage
+Herald of Thunder|+0.75% Increased Lightning Damage
+Ice Nova|+0.5% increased Area of Effect radius
+Ice Spear|+2% increased Projectile Speed
+Incinerate|2% increased Projectile Speed
+Kinetic Blast|+0.5% increased Area of Effect radius
+Lightning Tendrils|1% increased Lightning Damage
+Lightning Trap|+0.5% increased Trap Throwing Speed
+Lightning Warp|+1% increased Cast Speed
+Magma Orb|+1% increased Damage
+Orb of Storms|1% increased Lightning Damage
+Power Siphon|+1% increased Damage
+Purity of Elements|+1% increased Area of Effect radius
 Purity of Lightning|+1% increased Area of Effect radius
-Raise Spectre|+1.5% increased Minion Movement Speed
+Raise Spectre|+1% increased Minion Movement Speed
 Raise Zombie|+1% increased Minion Movement Speed, +1% increased Minion Maximum Life
-Righteous Fire|0.75% increased Spell Damage (20%q = 15% damage)
-Shock Nova|+1.5% Chance to shock enemies on hit with Lightning Damage, +3% increased Shock Duration on enemies
-Spark|+3% increased Projectile Speed
-Storm Call|4% increased Critical Strike Chance
-Summon Skeletons|Minions deal +0.75% increased Damage (20%q = 15% damage)
-Tempest Shield|+0.75% increased Lightning Damage (20%q = 15% damage)
-Vulnerability|Cursed enemies take +0.5% more Physical damage
-Wrath|+1.0% increased Area of Effect radius
+Righteous Fire|1% increased Spell Damage
+Shock Nova|+2% increased Shock Duration on enemies
+Spark|2% increased Projectile Speed
+Storm Call|0.5% increased Area of Effect Radius
+Summon Chaos Golem|1% increased Minion Damage, 1% increased Minion Maximum Life
+Summon Raging Spirit|+1% increased Minion Movement Speed
+Summon Skeletons|1% increased Damage
+Tempest Shield|1% increased Lightning damage
+Vulnerability|Cursed enemies take +0.5% increased Physical damage
+Wither|1% increased Duration
+Wrath|+1% increased Area of Effect radius
 
-Portal|+3% increased Cast Speed
-
-Added Fire Damage|+0.75% increased Fire Damage (20%q = 15% damage)
-Blood Magic|+0.75% increased Attack Speed when on Low Life (20%q = 15% attack speed)
+Added Fire Damage|+0.5% increased Fire Damage
+Blood Magic|+0.5% reduced Mana Cost
+Bloodlust|0.5% increased Melee Damage against Bleeding Enemies
 Cast on Melee Kill|0.5% Increased Damage
 Cast when Damage Taken|0.5% increased Damage
 Cold to Fire|+0.5% increased Fire Damage, +0.5% increased Cold Damage
-Empower|This Gem gains +5% increased Experience
+Empower|+5% increased gem Experience
 Endurance Charge on Melee Stun|1% increased Stun Duration on enemies
 Fire Penetration|+0.5% increased Fire Damage
-Increased Burning Damage|+0.5% chance to Ignite the enemy on hit with Fire Damage
-Increased Duration|+1% increased Skill Effect Duration
-Iron Grip|+0.75% increased Projectile Damage (20%q = 15% damage)
-Iron Will|+0.75% increased Spell Damage (20%q = 15% damage)
-Item Quantity|+0.35% increased Quantity of Items Dropped by Slain enemies (20%q = 7% quantity)
+Fortify|0.5% increased Fortify duration
+Generosity|+2% Increased Aura Radius
+Increased Burning Damage|+0.5% increased burning damage
+Increased Duration|+0.5% increased Skill Effect Duration
+Iron Grip|+0.5% increased Projectile Damage
+Iron Will|+0.5% increased Spell damage
+Item Quantity|+0.35% increased Quantity of Items Dropped by Slain Enemies
 Knockback|+0.5% chance to Knock enemies Back on hit
+Less Duration|+0.5% Reduced Skill Effect Duration
 Life Gain on Hit|+0.5 Life gained for each enemy hit by your Attacks
-Life Leech|+1% increased Life Leech rate
+Life Leech|+0.5% increased Life Leech per second
 Melee Damage on Full Life|+0.5% increased Melee Physical Damage
 Melee Physical Damage|+0.5% increased Melee Physical Damage
-Melee Splash|+1% increased Area of Effect Radius
+Melee Splash|+0.5% increased Area of Effect radius
 Multistrike|+0.5% increased Melee Physical Damage
-Ranged Attack Totem|+1.5% increased Totem Duration
-Reduced Mana|+0.5% reduced Mana Cost
-Reduced Duration|+0.5% Reduced Skill Effect Duration
-Spell Totem|+1.5% increased Totem Duration
+Ranged Attack Totem|+1% increased Totem Placement Speed
+Reduced Mana|+0.25% reduced Mana Cost
+Spell Totem|1% increased Totem Placement Speed
 Stun|+1.5% increased Stun Duration on enemies
 Weapon Elemental Damage|+0.5% increased Elemental Damage with Weapons
 
-Added Cold Damage|+0.5% Chance to Freeze
-Additional Accuracy|+2% increased Critical Strike Chance
-Blind|+0.75% increased Blinding duration (20%q = 15% increased duration)
-Cast on Critical Strike|+1% increased Critical Strike Chance
-Cast on Death|+3% increased Area of Effect radius
+Added Cold Damage|+0.5% increased Cold Damage
+Additional Accuracy|+1% increased Accuracy Rating
+Blind|+1% increased Blinding duration
+Block Chance Reduction|+0.25% Enemy Block Chance reduced
+Cast On Critical Strike|1% increased Critical Strike Chance
+Cast on Death|3% increased Area of Effect radius
 Chain|+1% increased Projectile Speed
-Chance to Flee|+0.75% Chance to Cause Monsters to Flee (20%q = 15% chance to flee)
+Chance to Flee|+1% Chance to Cause Monsters to Flee
+Cluster Traps|0.5% increased Trap Damage
 Cold Penetration|+0.5% increased Cold Damage
 Culling Strike|+0.5% increased Attack Speed, +0.5% increased Cast Speed
-Enhance|This gem gains 5% increased experience
+Enhance|+5% increased gem Experience
 Faster Attacks|+0.5% increased Attack Speed
 Faster Projectiles|+0.5% increased Attack Speed, +0.5% increased Cast Speed
 Fork|+0.5% increased Projectile damage
 Greater Multiple Projectiles|+0.5% increased Attack Speed, +0.5% increased Cast Speed
+Hypothermia|1.5% increased Chill Duration on Enemies
+Ice Bite|+0.5% increased Damage against Frozen enemies
 Lesser Multiple Projectiles|+0.5% increased Attack Speed, +0.5% increased Cast Speed
-Mana Leech|+1% increased Mana Leech rate
+Mana Leech|+0.5% increased Mana Leeched per Second
 Multiple Traps|1% increased Trap Trigger Radius
-Physical Projectile Attack Damage|+0.5% increased Physical Damage
-Pierce|+0.75% chance of Projectiles Piercing (20%q = 15% chance to pierce)
-Point Blank|+0.75% increased Projectile Damage (20%q = 15% increased damage)
-Slower Projectiles|+0.5% increased Projectile Damage
-Trap|+0.75% increased Trap and Mine Laying Speed (20%q = 15% increased speed)
+Physical Projectile Attack Damage|0.5% increased Physical Damage
+Pierce|+0.5% increased Projectile Damage
+Point Blank|+0.5% increased Projectile Damage
+Poison|1% increased Poison Duration
+Rapid Decay|0.5% Increased Damage over Time
+Trap Cooldown|0.5% increased Trap Damage
 
 Added Chaos Damage|+0.5% increased Chaos Damage
-Added Lightning Damage|+1% increased Shock Duration on enemies, +0.5% Chance to Shock the enemy on hit with Lightning Damage
-Cast When Stunned|0.5% increased Damage
-Chance to Ignite|+1.5% increased Burn Duration on enemies
-Concentrated Effect|+0.75% reduced Mana Cost (20%q = 15% reduced mana cost)
-Curse On Hit|+0.5% increased Effect of Curses you create from skills
-Elemental Proliferation|+0.5% increased Chill and Freeze duration, +0.75% increased Shock and Burn duration (20%q = 10% increased chill and freeze duration, 15% increased shock and burn duration)
+Added Lightning Damage|+0.5% increased Lightning Damage
+Blasphemy|0.5% increased Effect of Supported Curses
+Cast when Stunned|0.5% increased Damage
+Chance to Ignite|+0.5% increased Burning Damage
+Concentrated Effect|+0.5% increased Area Damage
+Controlled Destruction|+0.5% increased Spell Damage
+Curse On Hit|0.5% Increased Effect of Supported Curses
+Elemental Focus|0.5% increased Elemental Damage
+Elemental Proliferation|+0.5% increased Chill and Freeze duration, +0.5% increased Shock and Burn duration
+Enlighten|+5% increased gem Experience
 Faster Casting|+0.5% increased Cast Speed
-Increased Area of Effect|+0.5% increased Area of Effect radius
-Increased Critical Damage|+2% increased Critical Strike Multiplier
+Increased Area of Effect|+0.5% increased Area Damage
+Increased Critical Damage|+0.5% increased Critical Strike Multiplier
 Increased Critical Strikes|+1% increased Critical Strike Chance
+Innervate|1.5% increased Shock Duration on Enemies
 Item Rarity|+0.5% increased Rarity of Items Dropped by Slain enemies
 Lightning Penetration|+0.5% increased Lightning Damage
-Minion and Totem Elemental Resistance|Totems and Minions summoned by Supported Skills have +0.3% Fire, Cold and Lightning Resistance (20%q = 6% increased resistance)
-Minion Damage|+0.75% increased Minion Damage (20%q = 15% increased damage)
-Minion Life|+0.75% increased Minion Life (20%q = 15% increased life)
-Minion Speed|Minions have +0.75% increased Movement Speed (20%q = 15% increased movement speed)
-Power Charge On Critical|+1% Chance to Gain a Power Charge on Crit
-Remote Mine|+0.5% increased Mine Laying Speed
+Minefield|1% increased Mine Detonation Radius
+Minion and Totem Elemental Resistance|Totems and Minions summoned by Supported Skills have +0.35% Fire, Cold and Lightning Resistance
+Minion Damage|+0.75% increased Minion Damage
+Minion Life|+0.75% increased Minion Life
+Minion Speed|Minions have +0.75% increased Movement Speed
+Physical to Lightning|+0.5% increased Physical Damage, +0.5% increased Lightning Damage
+Power Charge On Critical|+1% Increased Critical Strike Chance
+Remote Mine|+0.5% increased Trap and Mine Laying Speed
+Spell Echo|+0.5% increased Spell Damage
+
+Vaal Glacial Hammer|2% increased Chill Duration on enemies, 1% increased Freeze Duration on enemies
+Vaal Ground Slam|+1.5% increased Stun Duration on enemies
+Vaal Immortal Call|2% Increased cast speed
+Vaal Molten Shell|+1.5% Chance to Ignite enemies on hit with Fire Damage
+Vaal Burning Arrow|+3% increased Burn Duration on enemies
+Vaal Cyclone|+1% increased Area of Effect Radius
+Vaal Detonate Dead|1% increased Cast Speed
+Vaal Double Strike|0.5% increased Attack Speed
+Vaal Grace|+1% increased Area of Effect radius
+Vaal Haste|+1% increased Area of Effect radius.
+Vaal Lightning Strike|1% increased duration
+Vaal Rain of Arrows|+0.5% increased Attack Speed
+Vaal Reave|+0.5% increased Attack Speed
+Vaal Spectral Throw|0.5% increased Attack Speed
+Vaal Arc|+1.5% Increased Shock Duration
+Vaal Clarity|1% increased Area of Effect radius
+Vaal Cold Snap|+0.5% increased Freeze Duration on enemies, +1% increased Chill Duration on enemies
+Vaal Discipline|+1% increased Area of Effect radius
+Vaal Fireball|+0.5% chance to Ignite enemies on hit with Fire Damage
+Vaal Flameblast|+1% increased Damage
+Vaal Ice Nova|+0.5% increased Area of Effect radius
+Vaal Lightning Trap|+0.5% increased Trap Throwing Speed
+Vaal Lightning Warp|+1% increased Cast Speed
+Vaal Power Siphon|1% increased Damage
+Vaal Righteous Fire|0.75% increased Spell Damage
+Vaal Spark|+2% increased Projectile Speed
+Vaal Storm Call|+0.5% increased Area of Effect
+Vaal Summon Skeletons|Minions deal +0.75% increased Damage
