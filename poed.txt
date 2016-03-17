@@ -48,3 +48,6 @@ b/o|Buyout
 CWS|Cast when Stunned
 IC|Immortal Call
 ES|Energy Shield
+COC|Cast on Crit[ical Strike]
+COCS|Cast on Critical Strike
+PCOC|Power Charge on Critical

@@ -52,7 +52,7 @@ Auxium Chain Belt|[10-20]% increased Elemental Damage with Weapons; +[45-55] to 
 Bated Breath Chain Belt|10% increased Damage; +[15-25] to Intelligence; +[20-30] to maximum Energy Shield; 50% faster start of Energy Shield Recharge
 Belt of the Deceiver Heavy Belt|10% reduced Chance to Block Attacks and Spells; [15-25]% increased Physical Damage; You take 30% reduced Extra Damage from Critical Strikes; +[30-40] to maximum Life; +[6-10]% to all Elemental Resistances
 Demigod's Bounty Golden Obi|+[16-24]% to all Elemental Resistances; 10% increased Character Size
-Doriyani's Invitation Heavy Belt|This item is too complicated. http://pathofexile.gamepedia.com/Doryani%27s_Invitation
+Doryani's Invitation Heavy Belt|This item is too complicated. http://pathofexile.gamepedia.com/Doryani%27s_Invitation
 Dyadian Dawn Heavy Belt|+[70-85] to maximum Life; +[20-40]% to Fire Resistance; +[20-40]% to Cold Resistance; Enemies Ignited by an Attack Burn 20% faster; Deal no Physical Damage; 0.6% of Attack Damage Leeched as Life against Chilled enemies
 Faminebind Rustic Sash|+[20-30]% to Cold Resistance; 60% increased Flask effect duration; Deals 50 Chaos Damage per second to nearby Enemies; 20% increased Projectile Damage; 30% reduced Flask Charges gained while using a Flask
 Feastbind Rustic Sash|+[20-40] to maximum Life; Adds 5-10 Physical Damage to Attacks; 0.2% of Physical Attack Damage Leeched as Life; 50% increased Flask Charges gained while using a Flask; 50% increased Mana Regeneration while using a Flask
