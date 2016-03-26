@@ -525,7 +525,7 @@ Fireborn Crimson Jewel|Increases and Reductions to other Damage Types in Radius 
 Fragile Bloom Crimson Jewel|2% of Life Regenerated per Second; 10% increased Damage taken
 Inertia Crimson Jewel|+[16-24] to Strength Dexterity from Passives in Radius is Transformed to Strength
 Inspired Learning Crimson Jewel|If 4 Notables are Allocated in Radius, When you Kill a Rare monster,you gain 1 of its mods for 20 seconds
-Izaro's Turmoil Crimson Jewel|[18-25]% increased Fire Damage; (18-25)% increased Cold Damage; 2% chance to Freeze; 2% chance to Ignite
+Izaro's Turmoil Crimson Jewel|[18-25]% increased Fire Damage; [18-25]% increased Cold Damage; 2% chance to Freeze; 2% chance to Ignite
 Mantra of Flames Crimson Jewel|Adds [3–8 - 5–12] Fire Attack Damage per Buff on You;Adds [3–8 - 5–12] Fire Spell Damage per Buff on You
 Martial Artistry Crimson Jewel|[10-15]% Increased Area of Effect while Unarmed
 Might in All Forms Crimson Jewel|Dexterity and Intelligence from passives in Radius count towards Strength Melee Damage bonus
