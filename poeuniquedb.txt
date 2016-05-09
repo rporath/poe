@@ -495,7 +495,7 @@ Rotgut Quicksilver Flask|[10-30]% increased Movement Speed during Flask effect; 
 Rumi's Concoction Granite Flask|[20-30]% Chance to Block during flask effect; [10-15]% Chance to Block Spells during flask effect
 The Sorrow of the Divine Sulphur Flask|[25-50]% increased Duration; Zealot's Oath during Flask effect
 Taste of Hate Sapphire Flask|30% of Physical Damage taken as Cold Damage during flask effect; Gain 30% of Physical Damage as Extra Cold Damage during effect; 30% chance to Avoid being Chilled during flask effect; 30% chance to Avoid being Frozen during flask effect
-Vessel of Vinktar Topaz Flask|Shocks nearby Enemies during Flask effect; You are Shocked during Flask effect; Adds [15–70 - 25–90] Lightning Damage to Spells during Flask effect; 30% of Lightning Damage Leeched as Life during Flask effect; 30% of Lightning Damage Leeched as Mana during Flask effect; Leech applies instantly during Flask effect
+Vessel of Vinktar Topaz Flask|[80-100]% increased Charges used; Shocks nearby Enemies during Flask effect; You are Shocked during Flask effect; 20% of Lightning Damage Leeched as Life during Flask effect; 20% of Lightning Damage Leeched as Mana during Flask effect; Item has 4 variants—see http://pathofexile.gamepedia.com/Vessel_of_Vinktar
 The Writhing Jar Hallowed Hybrid Flask|Instant Recovery; (65-75)% reduced Amount Recovered; (10-20)% reduced Charges used; 2 Enemy Writhing Worms escape the Flask when used
 Zerphi's Last Breath Grand Mana Flask|50% increased Charges used; Skills used during Flask effect grant 800% of Mana Cost as Life
 
