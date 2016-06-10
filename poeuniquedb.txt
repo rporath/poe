@@ -1,7 +1,7 @@
 ; w a n d s
 
 Abberath's Horn Goat's Horn|[40-60]% increased Global Critical Strike Chance; [20-30]% increased Fire Damage; 25% reduced Ignite Duration on Enemies; Adds [4–6 - 8–12] Fire Damage to Spells; +10 Life gained on Killing Ignited Enemies
-Amplification Rod Spiral Wand+1 to Level of Socketed Gems; Socketed Gems are Supported by level 1 Increased Area of Effect; Socketed Gems are Supported by level 1 Spell Echo; Socketed Gems are Supported by Level 1 Controlled Destruction; +[10-30] to Intelligence
+Amplification Rod Spiral Wand|+1 to Level of Socketed Gems; Socketed Gems are Supported by level 1 Increased Area of Effect; Socketed Gems are Supported by level 1 Spell Echo; Socketed Gems are Supported by Level 1 Controlled Destruction; +[10-30] to Intelligence
 Apep's Rage Opal Wand|Adds [50–90 - 65–105] Chaos Damage to Spells; [25-30]% increased Cast Speed; +[5-10]% to Chaos Resistance; 40% increased Mana Cost of Skills
 Ashcaller Quartz Wand|[18-22]% increased Spell Damage; Adds [10-14 - 18-22] Fire Damage; [40-50]% increased Burning Damage; [16-22]% chance to Ignite; Adds [4-6 - 7-9] Fire Damage to Spells; 10% chance to Cast Level 8 Summon Raging Spirit on Kill
 Eclipse Solaris Crystal Wand|Adds [18–36 - 22–44] Physical Damage; [18-22]% increased Global Critical Strike Multiplier; 20% Increased Light Radius; Nearby Enemies are Blinded; [120-140]% increased Critical Strike Chance against Blinded Enemies
