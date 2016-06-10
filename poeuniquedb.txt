@@ -251,7 +251,7 @@ Crown of Eyes Hubris Circlet|+[200-250] to Accuracy Rating; [120-150]% increased
 Crown of the Pale King Regicide Mask|[0.4-0.8]% of Physical Attack Damage Leeched as Life; [150-200]% increased Evasion and Energy Shield; Reflects 100–150 Physical Damage to Melee Attackers; 30% of Damage you Reflect to enemies is gained as Life
 Crown of Thorns Vine Circlet|+[60-80] Maximum Energy Shield; Reflects 5 Physical Damage to Melee Attackers; Take 5 Physical Damage when Hit by Attacks; Pain Attunement
 Deidbell Gilded Sallet|+[20-30] to Strength; +[20-30] to Dexterity; +[200-300] to Armour; 20% increased Melee Damage; Cannot Leech when on Low Life
-Deidbellow Gilded Sallet|+[20-30] to Strength; +[20-30] to Dexterity; +[200-300] to Armour; 20% increased Melee Damage; Cannot Leech when on Low Life; You and nearby allies have 20% increased Attack, Cast and MovementSpeed if you've used a Warcry Recently
+Deidbellow Gilded Sallet|+[20-30] to Strength; +[20-30] to Dexterity; +[200-300] to Armour; 20% increased Melee Damage; Cannot Leech when on Low Life; You and nearby allies have 20% increased Attack, Cast and Movement Speed if you've used a Warcry Recently
 Demigod's Triumph Golden Wreath|2.0 Life Regenerated per Second; [20-30]% Increased Rarity of Items Found; Has golden Radiance
 Devoto's Devotion Nightmare Bascinet|10% reduced Physical Damage; +[50-65] to Dexterity; 16% increased Attack Speed; [150-200]% increased Armour and Evasion; +[15-25]% to Chaos Resistance; 20% increased Movement Speed; Mercury Footprints
 Doedre's Scorn Lunaris Circlet|+1 to Level of Socketed Curse Gems; +[20-30] to Intelligence; [30-50]% increased Curse Duration; 20% increased Elemental Damage; [10-20]% increased Damage per Curse on Enemy
