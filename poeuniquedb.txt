@@ -32,7 +32,7 @@ Daresso's Salute Citrine Amulet|50% reduced maximum Energy Shield; +[30-40]% to 
 Demigod's Presence Gold Amulet|+20% to all Elemental Resistances; 20% Increased Character Size
 Extractor Mentis Agate Amulet|5% chance to grant Unholy Might to nearby Enemies on Kill; 5% chance to grant Onslaught to nearby Enemies on Kill; 5% chance to gain Unholy Might for 3 seconds on Kill; 5% chance to gain Onslaught for 3 seconds on Kill; Recover 1% of Maximum Life on Kill
 Eye of Chayula Onyx Amulet|20% Reduced Maximum Life; 30% Increased Rarity of Items Found; Cannot be Stunned 
-Hinekora's Sight Onyx Amulet|+1000 to Accuracy Rating; [6-10]% chance to Dodge Attacks;[ 6-10]% chance to Dodge Spell Damage; Cannot be Blinded
+Hinekora's Sight Onyx Amulet|+1000 to Accuracy Rating; [6-10]% chance to Dodge Attacks; [ 6-10]% chance to Dodge Spell Damage; Cannot be Blinded
 The Ignomon Gold Amulet|+10 to Dexterity; Adds 12-24 Fire Damage; +[100-150] to Accuracy Rating; +[100-150] to Evasion Rating; +20% to Fire Resistance 
 Karui Charge Jade Amulet|+[20-30] to Strength;[15-20]% increased Attack Speed; +100 to Accuracy Rating; 30% Increased Projectile Speed; 10% Increased Movement Speed 
 Karui Ward Jade Amulet|+[20-30] to Strength; +100 to Accuracy Rating; 30% Increased Projectile Speed; 10% Increased Movement Speed 
