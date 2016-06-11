@@ -612,7 +612,7 @@ Static Electricity Viridian Jewel|Adds 1 maximum Lightning Damage to Attacks per
 Steel Spirit Viridian Jewel|[6-10]% increased Projectile Damage;With at least 50 Dexterity Allocated in Radius, each Spectral Throw Projectile gains 4% increased Damage each time it Hits.
 Volley Fire Viridian Jewel|[6-10]% increased Projectile Damage; With at least 50 Dexterity Allocated in radius, Barrage fires an additional 2 projectiles simultaneously on the first and final attacks
 
-Emperor's Mastery Prismatic Jewel|3% increased Character Size;4% increased maximum Life; 5% increased Defences; [5-7]% increased Attributes 
+Emperor's Mastery Prismatic Jewel|3% increased Character Size; 4% increased maximum Life; 5% increased Defences; [5-7]% increased Attributes 
 
 ; c o r r u p t e d   j e w e l s
 
