@@ -557,7 +557,7 @@ Army of Bones Cobalt Jewel|Minions Deal [8-12]% Increased Damage; +2 to maximum 
 Clear Mind Cobalt Jewel|[20-30]% increased Mana Regeneration Rate; [40-60]% increased Spell Damage while no Mana is Reserved
 Dead Reckoning Cobalt Jewel|Minions have +[7 to 10]% to all Elemental Resistances; With at least 50 Intelligence Allocated in Radius, can summon up to 3 Skeleton Mages with Summon Skeletons
 Eldritch Knowledge Cobalt Jewel|5% increased Chaos damage per 10 Intelligence from Allocated Passives in Radius
-Emperor's Wit Cobalt Jewel| 30% increased Global Critical Strike Chance; 3% increased Character Size; [4-6]% increased Intelligence
+Emperor's Wit Cobalt Jewel|30% increased Global Critical Strike Chance; 3% increased Character Size; [4-6]% increased Intelligence
 Energy From Within Cobalt Jewel|[8-12]% increased maximum Energy Shield Increases and Reductions to Life in Radius are transformed to;apply to Energy Shield at 50% of their value
 Fortified Legion Cobalt Jewel|Minions have [5-15]% increased maximum Life; Minions Recover 2% of their maximum Life when they Block
 Grand Spectrum Cobalt Jewel|Gain 15 Mana per Grand Spectrum 
