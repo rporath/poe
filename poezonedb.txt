@@ -1,52 +1,74 @@
-Twilight Strand|1;35;52
-The Coast|2;35;52
-The Tidal Island|3;38;58
-The Mud Flats|4;36;52
-The Fetid Pool|5;40;58
-The Submerged Passage|5;36;53
-The Flooded Depths|6;38;58
-The Ledge|7;37;53
-The Climb|8;37;54
-The Prison|9;37;54
-Prisoner's Gate|11;38;55
-The Ship Graveyard|12;38;55
-The Ship Graveyard Cave|13;40;59
-The Coves|13;39;55
-The Cavern of Wrath|14;39;55
-The Cavern of Anger|15;40;56
-
-The Southern Forest|15;40;57
-The Old Fields|16;41;57
-The Den|17;43;61
-The Crossroads|17;41;57
-The Chamber of Sins|20;42;58
-The Broken Bridge|21;43;58
-The Fellshrine Ruins|18;42;59
-The Crypt|21;43;60
-The Riverways|16;41;57
-The Blackwood|18;42;57
-The Weaver's Chambers|20;42;58
-The Western Forest|21;43;58
-The Vaal Ruins|21;44;58
-The Wetlands|23;45;59
-The Dread Thicket|24;47;62
-The Caverns|25;45;60
-The Ancient Pyramid|26;46;60
-
-The City of Sarn|26;46;61
-The Slums|27;46;61
-The Crematorium|28;47;61
-The Warehouse District|29;48;61
-The Marketplace|29;48;61
-The Catacombs|30;53;67
-The Battlefront|30;49;62
-The Solaris Temple|31;50;62
-The Docks|32;50;62
-The Sewer Waterway|32;50;63
-The Barracks|32;51;64
-The Lunaris Temple|33;51;65
-The Imperial Gardens|33;51;66
-The Library|33;51;67
-The Archives|34;52;67
-The Sceptre of God|35;53;67
-The Upper Sceptre of God|36;54;68
+Lioneye's Watch|13;44;59
+The Twilight Strand|1;40;56
+The Coast|2;40;56
+The Tidal Island|3;42;57
+The Mud Flats|4;41;56
+The Fetid Pool|5;43;57
+The Flooded Depths|6;41;57
+The Submerged Passage|5;41;56
+The Ledge|6;42;56
+The Climb|7;42;56
+The Lower Prison|8;42;56
+The Upper Prison|9;43;57
+Prisoner's Gate|10;43;57
+The Ship Graveyard|11;43;57
+The Ship Graveyard Cave|12;45;58
+The Cavern of Wrath|12;43;58
+The Cavern of Anger|13;44;59
+The Forest Encampment|23;48;62
+The Southern Forest|13;44;59
+The Old Fields|14;45;60
+The Den|15;46;60
+The Crossroads|15;46;60
+The Crypt Level 1|17;46;60
+The Crypt Level 2|18;46;61
+The Chamber of Sins Level 1|15;46;60
+The Chamber of Sins Level 2|16;46;61
+The Broken Bridge|16;46;61
+The Riverways|15;45;60
+The Northern Forest|21;47;61
+The Western Forest|17;46;61
+The Weaver's Chambers|18;46;61
+The Vaal Ruins|20;47;61
+The Wetlands|19;46;61
+The Dread Thicket|21;48;63
+The Caverns|22;47;62
+The Ancient Pyramid|23;48;63
+The Fellshrine Ruins|16;46;60
+The Sarn Encampment|33;54;62
+The City of Sarn|23;48;63
+The Slums|24;49;63
+The Crematorium|25;49;63
+The Warehouse District|26;49;63
+The Marketplace|26;49;63
+The Catacombs|27;52;67
+The Battlefront|27;50;64
+The Solaris Temple Level 1|27;50;64
+The Solaris Temple Level 2|28;51;64
+The Docks|29;51;64
+The Slums Sewers|25;49;63
+The Warehouse Sewers|26;49;63
+The Market Sewers|27;50;65
+The Ebony Barracks|29;51;64
+The Lunaris Temple Level 1|29;51;64
+The Lunaris Temple Level 2|30;52;65
+The Imperial Gardens|30;52;65
+The Hedge Maze|31;53;66
+The Library|30;53;66
+The Archives|31;53;66
+The Sceptre of God|32;53;66
+The Upper Sceptre of God|33;54;67
+Highgate|40;57;62
+The Aqueduct|33;54;67
+The Dried Lake|34;55;67
+The Mines Level 1|34;55;67
+The Mines Level 2|35;55;67
+The Crystal Veins|35;55;68
+Kaom's Fortification|38;56;69
+Kaom's Dream|36;55;68
+Kaom's Stronghold|38;56;69
+Daresso's Dream|37;55;68
+The Grand Arena|38;56;69
+The Belly of the Beast Level 1|38;56;69
+The Belly of the Beast Level 2|39;56;69
+The Harvest|40;57;70
