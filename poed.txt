@@ -51,3 +51,6 @@ ES|Energy Shield
 COC|Cast on Crit[ical Strike]
 COCS|Cast on Critical Strike
 PCOC|Power Charge on Critical
+FOTM|Flavor of the Month
+EQ|Earthquake
+DD|Detonate Dead
