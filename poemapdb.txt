@@ -1,31 +1,33 @@
-﻿1|Dungeon, Grotto, Dunes, Pit, Tropical Island, Crypt, Desert, The Coward's Trial
-2|Channel, Thicket, Mountain Ledge, Cemetery, Arcade, Sewer, Wharf, Maelström of Chaos, Vaults of Atziri
-3|Spider Lair, Vaal Pyramid, Reef, Quarry, Mud Geyser, Ghetto, Museum,Mao Kun,Caer Blaidd Wolfpack's Den
-4|Overgrown Shrine, Tunnel, Shore, Spider Forest, Promenade, Arena, Phantasmagoria, Acton's Nightmare
-5|Pier, Bog, Graveyard, Coves, Villa, Underground Sea
-6|Arachnid Nest, Strand, Dry Woods, Colonnade, Catacombs, Temple, Olmec's Sanctum, Poorjoy's Asylum, Whakawairua Tuahu
-7|Waste Pool, Abandoned Cavern, Jungle Valley, Terrace, Torture Chamber, Oba's Cursed Trove
-8| Canyon, Dark Forest, Dry Peninsula, Orchard, Cells
-9|Arid Lake, Gorge, Residence, Malformation, Underground River
-10|Plateau, Bazaar, Volcano, Chateau, Necropolis, Death and Taxes
-11|Precinct, Academy, Springs, Crematorium
-12|Overgrown Ruin, Village Ruin, Arsenal, Shipyard
-13|Courtyard, Excavation, Waterways, Wasteland, The Vinktar Square
-14|Shrine, Conservatory, Palace
-15|Abyss, Colosseum, Core
+1|Arcade,Crystal Ore,Desert,Jungle Valley
+2|Beach, Factory, Ghetto, Oasis
+3|Arid Lake, Cavern, Channel, Grotto, Marshes, Sewer, Vaal Pyramid, Mao Kun, Vaults of Atziri
+4|Academy, Acid Lakes, Dungeon, Graveyard, Phantasmagoria, Villa, Waste Pool, Hallowed Ground
+5|Burial Chambers, Peninsula, Dunes, Mesa, Pit, Primordial Pool, Spider Lair, Tower
+6|Canyon, Quarry, Racecourse, Ramparts, Spider Forest, Strand, Thicket, Vaal City, Wharf, Shaped Arcade, Shaped Crystal Ore, Shaped Desert, Shaped Jungle Valley, Whakawairua Tuahu
+7|Arachnid Tomb, Castle Ruins, Catacombs, Cells, Armory, Ashen Wood, Mud Geyser, Shaped Beach, Shaped Factory, Shaped Ghetto, Shaped Oasis, Olmec's Sanctum
+8|Arachnid Nest, Arena, Bog, Cemetery, Barrows, Atoll, Pier, Shore, Tropical Island, Shaped Arid Lake, Shaped Cavern, Shaped Channel, Shaped Grotto, Shaped Marshes, Shaped Sewer, Shaped Vaal Pyramid, Maelström of Chaos
+9|Coves, Crypt, Museum, Orchard, Overgrown Shrine, Promenade, Reef, Temple, Shaped Academy, Shaped Acid Lakes, Shaped Dungeon, Shaped Graveyard, Shaped Phantasmagoria, Shaped Villa, Shaped Waste Pool, The Coward's Trial, Hall of Grand Masters, The Putrid Cloister, Acton's Nightmare, Poorjoy's Asylum
+10|Colonnade, Arsenal, Courtyard, Malformation, Quay, Terrace, Underground River, Shaped Burial Chambers, Shaped Peninsula, Shaped Dunes, Shaped Mesa, Shaped Pit, Shaped Primordial Pool, Shaped Spider Lair, Shaped Tower, The Vinktar Square, Caer Blaidd Wolfpack's Den
+11|Bazaar, Chateau, Excavation, Precinct, Torture Chamber, Underground Sea, Wasteland, Shaped Canyon, Shaped Quarry, Shaped Racecourse, Shaped Ramparts, Shaped Spider Forest, Shaped Strand, Shaped Thicket, Shaped Vaal City, Shaped Wharf, Oba's Cursed Trove, The Perandus Manor
+12|Crematorium, Estuary, Necropolis, Plateau, Ivory Temple, Residence, Shipyard, Vault, Shaped Arachnid Tomb, Shaped Castle Ruins, Shaped Catacombs, Shaped Cells, Shaped Armory, Shaped Ashen Wood, Shaped Mud Geyser, Death and Taxes
+13|Lair, Beacon, Gorge, High Gardens, Plaza, Scriptorium, Sulphur Wastes, Waterways, Shaped Arachnid Nest, Shaped Arena, Shaped Bog, Shaped Cemetery, Shaped Barrows, Shaped Atoll, Shaped Pier, Shaped Shore, Shaped Tropical Island
+14|Maze, Mineral Pools, Palace, Shrine, Springs, Volcano, Shaped Coves, Shaped Crypt, Shaped Museum, Shaped Orchard, Shaped Overgrown Shrine, Shaped Promenade, Shaped Reef, Shaped Temple
+15|Abyss, Colosseum, Core, Dark Forest, Overgrown Ruin, Shaped Colonnade, Shaped Arsenal, Shaped Courtyard, Shaped Malformation, Shaped Quay, Shaped Terrace, Shaped Underground River
+16|Pit of the Chimera, Lair of the Hydra, Maze of the Minotaur, Forge of the Phoenix, Vaal Temple
 
-68|Dungeon, Grotto, Dunes, Pit, Tropical Island, Crypt, Desert, The Coward's Trial
-69|Channel, Thicket, Mountain Ledge, Cemetery, Arcade, Sewer, Wharf, Maelström of Chaos, Vaults of Atziri
-70|Spider Lair, Vaal Pyramid, Reef, Quarry, Mud Geyser, Ghetto, Museum,Mao Kun,Caer Blaidd Wolfpack's Den
-71|Overgrown Shrine, Tunnel, Shore, Spider Forest, Promenade, Arena, Phantasmagoria, Acton's Nightmare
-72|Pier, Bog, Graveyard, Coves, Villa, Underground Sea
-73|Arachnid Nest, Strand, Dry Woods, Colonnade, Catacombs, Temple, Olmec's Sanctum, Poorjoy's Asylum, Whakawairua Tuahu
-74|Waste Pool, Abandoned Cavern, Jungle Valley, Terrace, Torture Chamber, Oba's Cursed Trove
-75| Canyon, Dark Forest, Dry Peninsula, Orchard, Cells
-76|Arid Lake, Gorge, Residence, Malformation, Underground River
-77|Plateau, Bazaar, Volcano, Chateau, Necropolis, Death and Taxes
-78|Precinct, Academy, Springs, Crematorium
-79|Overgrown Ruin, Village Ruin, Arsenal, Shipyard
-80|Courtyard, Excavation, Waterways, Wasteland, The Vinktar Square
-81|Shrine, Conservatory, Palace
-82|Abyss, Colosseum, Core
+68|Arcade,Crystal Ore,Desert,Jungle Valley
+69|Beach, Factory, Ghetto, Oasis 
+70|Arid Lake, Cavern, Channel, Grotto, Marshes, Sewer, Vaal Pyramid, Mao Kun, Vaults of Atziri
+71|Academy, Acid Lakes, Dungeon, Graveyard, Phantasmagoria, Villa, Waste Pool, Hallowed Ground
+72|Burial Chambers, Peninsula, Dunes, Mesa, Pit, Primordial Pool, Spider Lair, Tower
+73|Canyon, Quarry, Racecourse, Ramparts, Spider Forest, Strand, Thicket, Vaal City, Wharf, Shaped Arcade, Shaped Crystal Ore, Shaped Desert, Shaped Jungle Valley, Whakawairua Tuahu
+74|Arachnid Tomb, Castle Ruins, Catacombs, Cells, Armory, Ashen Wood, Mud Geyser, Shaped Beach, Shaped Factory, Shaped Ghetto, Shaped Oasis, Olmec's Sanctum
+75|Arachnid Nest, Arena, Bog, Cemetery, Barrows, Atoll, Pier, Shore, Tropical Island, Shaped Arid Lake, Shaped Cavern, Shaped Channel, Shaped Grotto, Shaped Marshes, Shaped Sewer, Shaped Vaal Pyramid, Maelström of Chaos
+76|Coves, Crypt, Museum, Orchard, Overgrown Shrine, Promenade, Reef, Temple, Shaped Academy, Shaped Acid Lakes, Shaped Dungeon, Shaped Graveyard, Shaped Phantasmagoria, Shaped Villa, Shaped Waste Pool, The Coward's Trial, Hall of Grand Masters, The Putrid Cloister, Acton's Nightmare, Poorjoy's Asylum
+77|Colonnade, Arsenal, Courtyard, Malformation, Quay, Terrace, Underground River, Shaped Burial Chambers, Shaped Peninsula, Shaped Dunes, Shaped Mesa, Shaped Pit, Shaped Primordial Pool, Shaped Spider Lair, Shaped Tower, The Vinktar Square, Caer Blaidd Wolfpack's Den
+78|Bazaar, Chateau, Excavation, Precinct, Torture Chamber, Underground Sea, Wasteland, Shaped Canyon, Shaped Quarry, Shaped Racecourse, Shaped Ramparts, Shaped Spider Forest, Shaped Strand, Shaped Thicket, Shaped Vaal City, Shaped Wharf, Oba's Cursed Trove, The Perandus Manor
+79|Crematorium, Estuary, Necropolis, Plateau, Ivory Temple, Residence, Shipyard, Vault, Shaped Arachnid Tomb, Shaped Castle Ruins, Shaped Catacombs, Shaped Cells, Shaped Armory, Shaped Ashen Wood, Shaped Mud Geyser, Death and Taxes
+80|Lair, Beacon, Gorge, High Gardens, Plaza, Scriptorium, Sulphur Wastes, Waterways, Shaped Arachnid Nest, Shaped Arena, Shaped Bog, Shaped Cemetery, Shaped Barrows, Shaped Atoll, Shaped Pier, Shaped Shore, Shaped Tropical Island
+81|Maze, Mineral Pools, Palace, Shrine, Springs, Volcano, Shaped Coves, Shaped Crypt, Shaped Museum, Shaped Orchard, Shaped Overgrown Shrine, Shaped Promenade, Shaped Reef, Shaped Temple
+82|Abyss, Colosseum, Core, Dark Forest, Overgrown Ruin, Shaped Colonnade, Shaped Arsenal, Shaped Courtyard, Shaped Malformation, Shaped Quay, Shaped Terrace, Shaped Underground River
+83|Pit of the Chimera, Lair of the Hydra, Maze of the Minotaur, Forge of the Phoenix, Vaal Temple
