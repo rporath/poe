@@ -54,6 +54,6 @@ PCOC|Power Charge on Critical
 FOTM|Flavor of the Month
 EQ|Earthquake
 DD|Detonate Dead
-LL Low Life(using shavs usually)
+LL|Low Life
 ED|Essence Drain
 AW|Ancestral Warchief
