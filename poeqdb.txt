@@ -24,6 +24,7 @@ Flameblast|1% increased Damage
 Flammability|Burns on Cursed Enemies have +1% increased Duration
 Flesh Offering|0.5% increased Skill Effect Duration
 Freezing Pulse|+2% increased Projectile Speed
+Frost Bolt|1% increased Cold Damage
 Frost Bomb|1% increased Cold Damage
 Frost Wall|1% increased Skill Effect Duration
 Frostbite|Freezes on Cursed Enemies have +1% increased Duration
@@ -46,11 +47,13 @@ Raise Zombie|+1% increased Minion Movement Speed, +1% increased Minion Maximum L
 Righteous Fire|1% increased Spell Damage
 Shock Nova|+2% increased Shock Duration on enemies
 Spark|2% increased Projectile Speed
+Spirit Offering|0.5% increased Duration
 Storm Call|0.5% increased Area of Effect Radius
 Summon Chaos Golem|1% increased Minion Damage, 1% increased Minion Maximum Life
 Summon Raging Spirit|+1% increased Minion Movement Speed
 Summon Skeletons|1% increased Damage
 Tempest Shield|1% increased Lightning damage
+Vortex|0.5% increased Area of Effect radius
 Vulnerability|Cursed enemies take +0.5% increased Physical damage
 Wither|1% increased Duration
 Wrath|+1% increased Area of Effect radius
@@ -58,6 +61,7 @@ Wrath|+1% increased Area of Effect radius
 Abyssal Cry|1% increased Skill Effect Duration
 Anger|+1% increased Area of Effect radius
 Ancestral Protector|1% increased Totem Damage
+Ancestral Warchief|1% increased Totem Damage
 Animate Guardian|Minions have 2% increased Movement Speed
 Cleave|+0.5% increased Attack Speed
 Decoy Totem|+1% increased Totem Life
@@ -125,6 +129,7 @@ Hatred|+1% increased Area of Effect radius
 Herald of Ice|0.75% increased cold damage
 Ice Shot|1% increased Cold Damage
 Ice Trap|0.5% increased Radius of Area Skills
+Lacerate|0.5% increased Area of Effect radius
 Lightning Arrow|+0.5% increased chance to Shock enemies
 Lightning Strike|+2% chance of Projectiles Piercing
 Mirror Arrow|1.5% increased Arrow Speed
