@@ -3,6 +3,7 @@ Arc|+0.5% chance to Shock enemies
 Arctic Breath|0.5% increased Area of Effect radius
 Assassin's Mark|Cursed enemies have a 0.5% increased chance to grant a Power Charge when slain
 Ball Lightning|1% increased Lightning Damage
+Blight|0.5% increased Area of Effect radius
 Bone Offering|0.5% increased Skill Effect Duration
 Clarity|1% increased Area of Effect radius
 Cold Snap|0.5% increased Area of Effect radius
@@ -45,6 +46,7 @@ Purity of Lightning|+1% increased Area of Effect radius
 Raise Spectre|+1% increased Minion Movement Speed
 Raise Zombie|+1% increased Minion Movement Speed, +1% increased Minion Maximum Life
 Righteous Fire|1% increased Spell Damage
+Scorching Ray|0.5% increased beam length
 Shock Nova|+2% increased Shock Duration on enemies
 Spark|2% increased Projectile Speed
 Spirit Offering|0.5% increased Duration
@@ -103,6 +105,7 @@ Animate Weapon|Minions have 2% increased Movement Speed
 Arctic Armour|+1% increased Skill Effect Duration
 Barrage|0.5% increased Projectile Damage
 Bear Trap|+1% increased Physical Damage
+Blade Flurry|0.5% increased Attack Speed
 Blade Vortex|0.5% increase Area of Effect Radius
 Bladefall|0.5% increased Area of Effect radius
 Blast Rain|+0.5% Increased Area of Effect Radius
