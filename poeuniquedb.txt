@@ -718,7 +718,7 @@ Assassin's Haste Cobalt Jewel|10% increased Mana Regeneration Rate; 4% increased
 Conqueror's Potency Cobalt Jewel|4% increased Effect of your Curses; 8% increased effect of Flasks; 3% increased effect of Auras you Cast
 Survival Secrets Cobalt Jewel|3 Mana Regenerated per second; 10% increased Elemental Damage
 
-Conqueror's Efficiency Crimson Jewel|?2% increased Mana Reserved; 4% increased Skill Effect Duration; 3% reduced Mana Cost of Skills
+Conqueror's Efficiency Crimson Jewel|2% reduced Mana Reserved; 4% increased Skill Effect Duration; 3% reduced Mana Cost of Skills
 Survival Skills Crimson Jewel|10% Increased Physical Damage; +50 to Armour
 Warlord's Reach Crimson Jewel|8% increased Attack Damage; +1 Melee Weapon and Unarmed Range
 
