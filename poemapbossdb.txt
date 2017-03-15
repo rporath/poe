@@ -1,106 +1,144 @@
-﻿Dungeon|Penitentiary Incarcerator
-Grotto|Fire and Fury
-Dunes|The Blacksmith
-Pit|Tore, Towering Ancient
-Tropical Island|Blood Progenitor
-Crypt|Pagan Bishop of Agony
-Desert|Mirage of Bones
-The Coward's Trial|Infector of Dreams
-Untainted Paradise|Clutch Queen, Colossal Spitter, Elder Devourer, Great Maw, Prime Ape, and The First Rhoa
+﻿Arcade|Herald of Ashes and Herald of Thunder
+Crystal Ore|Shrieker Eihal and Breaker Toruul
+Desert Map|Splinter Liege
+Jungle Valley|Queen of the Great Tangle
 
-Channel|The Winged Death
-Thicket|Steelpoint the Avenger
-Mountain Ledge|Champion of Frost
-Cemetery|Thunderskull
-Arcade|Herald of Ashes and Herald of Thunder
-Sewer|Belcer, the Pirate Lord
-Wharf|Bramblemist
-Maelström of Chaos|Merveil, the Reflection /Merveil, the Returned
-
-Vaults of Atziri|[None]
-Spider Lair|Hybrid Widow
-Vaal Pyramid|Atziri's Chosen
-Reef|Asphyxia
-Quarry|Void Anomaly
-Mud Geyser|Skullbeak
+Beach|Glace
+Factory|Mother Phyia
 Ghetto|The Reaver
-Museum|The Fallen Queen, The Hollow Lady, and The Broken Prince
-Mao Kun|Fairgraves, Never Dying
-Caer Blaidd Wolfpack's Den|Storm Eye OR Winterfang
+Oasis|Planus, Hollow Soul
 
-Overgrown Shrine|Hybrid Widow
-Tunnel|Lady of the Brood
-Shore|Glace
-Spider Forest|The Blacksmith
-Promenade|Blackguard Avenger and Blackguard Tempest
-Arena|Avatar of the Forge, Avatar of the Skies, and Avatar of the Huntress
-Phantasmagoria|Thraxia
-Acton's Nightmare|Thorn and Rose
+Arid Lake|Drought-Maddened Rhoa
+Cavern|The Eroding One
+Channel|The Winged Death
+Grotto|Void Anomaly
+Marshes|Tore, Towering Ancient
+Sewer|Arachnoxia
+Vaal Pyramid|The Fallen Queen, The Hollow Lady and The Broken Prince
+Vaults of Atziri|none
 
-Pier|Flame of Truth
-Bog|Slitherskin
-Graveyard|Merveil, the Reflection
-Coves|Master of the Blade
+Academy|The Arbiter of Knowledge
+Acid Lakes|Mirage of Bones
+Dungeon|Penitentiary Incarcerator
+Graveyard|Litanius, the Black Prayer
+Hallowed Ground|Maker of Mires
+Phantasmagoria|Erythrophagia
 Villa|Excellis Aurafix
-Underground Sea|The Idol Beyond
-
-Arachnid Nest|Lord of the Bow
-Strand|Massier
-Dry Woods|Spirit of Nadia and Spirit of Aidan
-Colonnade|Carnage
-Catacombs|Xixic
-Temple|The Wicked One
-Olmec's Sanctum|Achioc the Glacier, Zorioc the Storm, Levioc the Volcano, Izioc the Abyss, and Olmec the All Stone
-Poorjoy's Asylum|Mistress Hyseria
-Whakawairua Tuahu|Tormented Temptress
-
 Waste Pool|Asphyxia
-Abandoned Cavern|The Eroding One
-Jungle Valley|Spinner of False Hope
-Terrace|Sallazzang
-Torture Chamber|Shock and Horror
-Oba's Cursed Trove|[Time]
 
-Canyon|Lord of the Bow
-Dark Forest|Oak the Mighty
-Dry Peninsula|Titan of the Grove
-Orchard|Tunneltrap
-Cells|Harbinger
+Burial Chambers|Witch of the Cauldron
+Dunes|The Blacksmith
+Mesa|Oak the Mighty
+The Pale Court|Eber the Plaguemaw, Inya the Unbearable Whispers, Volkuur the Unbreathing Queen and Yriel the Feral Lord
+Peninsula|Titan of the Grove
+Pit|Olof, son of the Headsman
+Primordial Pool|Nightmare's Omen
+Spider Lair|Thraxia
+Tower|Carnage
 
-Arid Lake|Drought Maddened Rhoa
-Gorge|Master of the Blade
-Residence|The High Templar
+Canyon|Gnar, Eater of Carrion and Stonebeak, Battle Fowl
+Quarry|Avatar of Undoing
+Racecourse|Shredder of Gladiators, Crusher of Gladiators and Bringer of Blood
+Ramparts|Blackguard Inquisitor and Blackmage Inquisitor
+Spider Forest|Enticer of Rot
+Strand|Massier and Master of the Blade
+Whakawairua Tuahu|Tormented Temptress
+Thicket|The Primal One
+Vaal City|Lady Stormflay
+Wharf|Stone of the Currents
+
+Arachnid Tomb|Hybrid Widow
+Armoury|Warmonger
+Ashen Wood|Lord of the Ashen Arrow
+Castle Ruins|Leif, the Swift-handed
+Catacombs|Xixic, High Necromancer
+Olmec's Sanctum|Olmec, the All Stone
+Cells|Megaera
+Mud Geyser|Tunneltrap
+
+Arachnid Nest|Spinner of False Hope
+Arena|Avatar of the Forge, Avatar of the Huntress and Avatar of the Skies
+Atoll|Puruna, the Challenger
+Maelström of Chaos|Merveil
+Barrows|Beast of the Pits
+Bog|Skullbeak
+Cemetery|Champion of Frost, Thunderskull and Steelpoint the Avenger
+The Lord's Labyrinth|Izaro
+Pier|Ancient Architect
+Shore|Belcer, Pirate Lord
+Tropical Island|Blood Progenitor, Spirit of Aidan and Spirit of Nadia
+Untainted Paradise|Clutch Queen, Colossal Spitter, Elder Devourer, Great Maw, Prime Ape and The First Rhoa
+
+Coves|Telvar, the Inebriated and Pirate Treasure
+Crypt|Pagan Bishop of Agony
+The Coward's Trial|Infector of Dreams
+Museum|he of Many Pieces
+The Putrid Cloister|Headmistress Braeta
+Orchard|Vision of Justice
+Overgrown Shrine|The Wicked One
+Acton's Nightmare|Rose and Thorn
+Promenade|Blackguard Avenger and Blackguard Tempest
+Hall of Grandmasters|none
+Reef|First Mate Crasus
+Mao Kun|Fairgraves, Never Dying
+Temple|Riftwalker
+Poorjoy's Asylum|Mistress Hyseria
+
+Arsenal|The Steel Soul
+Colonnade|Tyrant
+Courtyard|Oriath's Vengeance, Oriath's Vigil and Oriath's Virtue
+The Vinkar Square|Guardian of the North, Guardian of the East, Guardian of the South, Guardian of the West and Avatar of Thunder
 Malformation|Nightmare Manifest
-Underground River|Beast of the Pits
+Quay|Unravelling Horror
+Terrace|Sallazzang
+Underground River|It That Fell
+Caer Blaidd, Wolfpack's Den|Solus, Pack Alpha, Storm Eye and Winterfang
 
-Plateau|Drought Maddened Rhoa
-Chateau|Unknown
-Bazaar|Dialla's Anger,Dialla's Hatred, and Dialla's Wrath
-Volcano|Forest of Flames
-Necropolis|Merveil the Reflection/Merveil the Returned
-Death and Taxes|Avatar of Ash, Avatar of Winter, Avatar of Silence, and Avatar of Apocalypse
-
-Precinct|Lady Stormflay
-Academy|The Arbiter of Knowledge	
-Springs|Witch of the Cauldron
-Crematorium|Megaera
-
-Overgrown Ruin|Loathe
-Village Ruin|Gnar Eater of Carrion, and Stonebeak Battle Fowl
-Arsenal|Volcanus
-Shipyard|Warmonger
-
-Courtyard|Oriath's Vigil, Oriath's Vengeance, and Oriath's Virtue
-Excavation|Champion of the Hollows, Lord of the Hollows, and Messenger of the Hollows
-Waterways|Fragment of Winter
+Bazaar|Ancient Sculptor
+Chateau|Hephaeus, the Hammer
+The Perandus Manor|Platinia, Auriot, Rhodion, Osmea, Pallias, Argient and Rheniot
+Excavation|Champion of the Hollows, Lord of the Hollows and Messenger of the Hollows
+Precinct|Three Rogue Exiles
+Torture Chamber|Shock and Horror
+Oba's Cursed Trove|none
+Underground Sea|Merveil
 Wasteland|The Brittle Emperor
-The Vinktar Square|Avatar of Thunder
 
+Crematorium|Fire and Fury
+Estuary|Sumter the Twisted
+Ivory Temple|Platinia, Auriot, Rhodion, Pallias, Argient and Rheniot
+Necropolis|Burtok, Conjuror of Bones
+Death and Taxes|Avatar of Ash, Avatar of Winter, Avatar of Silence and Avatar of Apocalypse
+Plateau|Puruna, the Challenger and Poporo, the Highest Spire
+Residence|The High Templar
+Shipyard|Random Brinerot leader
+Vault|Guardian of the Vault
+
+Beacon|Random Redblade leader
+Gorge|Rek'tar, the Breaker
+Lair|Lycius, Midnight's Howl
+Plaza|The Goddess
+Scriptorium|Gisale, Thought Thief
+Sulphur Wastes|Random Mutewind leader
+Waterways|Fragment of Winter
+
+Maze|Shadow of the Vaal
+Mineral Pools|Merveil
+Palace|God's Chosen and The Hallowed Husk
 Shrine|Piety the Empyrian
-Conservatory|Shadow of the Vaal
-Palace|God's Chosen/The Hallowed Husk
-Vaal Temple|K'aj Q'ura, K'aj Y'ara'az, and K'aj A'alai
+Springs|Aulen Greychain
+Volcano|Forest of Flames
 
 Abyss|The Infernal King
 Colosseum|Ambrius, Legion Slayer
-Core|Prodigy of Darkness, Prodigy of Hexes, Prodigy of Pain, Eater of Souls
+Core|Prodigy of Pain, Prodigy of Hexes, Prodigy of Darkness and Eater of Souls
+Dark Forest|The Cursed King
+Overgrown Ruin|Two random Chaos leaders
+
+Forge of the Phoenix|Guardian of the Phoenix
+Lair of the Hydra|Guardian of the Hydra
+Maze of the Minotaur|Guardian of the Minotaur
+Pit of the Chimera|Guardian of the Chimera
+Vaal Temple|K'aj A'alai, K'aj Q'ura and K'aj Y'ara'az
+
+The Shaper's Realm|The Shaper
